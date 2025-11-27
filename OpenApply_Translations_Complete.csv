@@ -1,0 +1,409 @@
+Key,English (en),English GB (en-GB),English US (en-US),German (de),Spanish (es),Arabic (ar),Chinese Simplified (zh-Hans),Chinese Traditional (zh-Hant),Japanese (ja)
+Account-AboutApp,About OpenApply,About OpenApply,About OpenApply,Über OpenApply,Acerca de OpenApply,About OpenApply,关于OpenApply,關於 OpenApply,OpenApplyについて
+Account-Application,Application,Application,Application,Anwendung,Solicitud,Application,支持,支援,アプリケーション
+Account-Discover,Discover,Discover,Discover,Entdecken,Descubrir,Discover,发现,發現,発見
+Account-Language,Language,Language,Language,Sprache,Idioma,Language,语言,語言,言語
+Account-Lock-Description,"Auto-lock the app after 2 minutes and unlock it with TouchID, FaceID or passcode.","Auto-lock the app after 2 minutes and unlock it with TouchID, FaceID or passcode.","Auto-lock the app after 2 minutes and unlock it with TouchID, FaceID or passcode.","Die App nach 2 Minuten automatisch sperren und mit TouchID, FaceID oder Passcode entsperren.","Bloquee automáticamente la aplicación después de 2 minutos y desbloquéela mediante el reconocimiento de huellas dactilares, la detección facial o código de acceso.","Auto-lock the app after 2 minutes and unlock it with TouchID, FaceID or passcode.",如开启，程序进入后台超过两分钟将自动锁定，您可以使用FaceID和密码来解锁。,開啟後，如果應用程式在背景待命超過兩分鐘將自動鎖定，您可以使用 FaceID 和密碼再次解除鎖定。,2分後にアプリを自動ロックし、TouchID、FaceID、またはパスコードでロック解除します。
+Account-Lock-Title,Auto-Lock,Auto-Lock,Auto-Lock,Auto-Sperre,Bloqueo automático,Auto-Lock,自动锁屏,自動鎖定螢幕,自動ロック
+Account-LogOut,Log Out,Log Out,Log Out,Abmelden,Cerrar sesión,Log Out,退出登录,登出,ログアウト
+Account-Push-DisAbleDescription,Push notifications have been disabled for all devices.,Push notifications have been disabled for all devices.,Push notifications have been disabled for all devices.,Push-Benachrichtigungen wurden für alle Geräte deaktiviert,Se han desactivado las notificaciones automáticas en todos los dispositivos.,Push notifications have been disabled for all devices.,消息推送已对所有设备关闭,通知推播已對所有裝置關閉,プッシュ通知はすべてのデバイスで無効になっています。
+Account-Push-Disable,Disable Device Push Notifications,Disable Device Push Notifications,Disable Device Push Notifications,Push-Benachrichtigungen für Geräte deaktivieren,Desactivar las notificaciones automáticas en el dispositivo,Disable Device Push Notifications,关闭消息推送,關閉通知推播,デバイスプッシュ通知を無効にする
+Account-Push-Enable,Enable Device Push Notifications,Enable Device Push Notifications,Enable Device Push Notifications,Push-Benachrichtigungen für Geräte aktivieren,Activar las notificaciones automáticas en el dispositivo,Enable Device Push Notifications,开启消息推送,開啟通知推播,デバイスプッシュ通知を有効にする
+Account-Push-Help,Help & Support,Help & Support,Help & Support,Hilfe und Support,Ayuda y soporte,Help & Support,帮助与支持,幫助與支援,ヘルプとサポート
+Account-RateApp,Rate the OpenApply App,Rate the OpenApply App,Rate the OpenApply App,Bewerten Sie die OpenApply App,Valorar la aplicación OpenApply,Rate the OpenApply App,评分,評分,OpenApplyアプリを評価
+Account-Request,Submit Support Request,Submit Support Request,Submit Support Request,Support-Anfrage einreichen,Enviar solicitud de soporte,Submit Support Request,提交支持请求,提交客服案件,サポートリクエストを送信
+Account-System,System,System,System,System,Sistema,System,系统,系統,システム
+Account-Title,Account,Account,Account,Benutzerkonto,Cuenta,Account,账户,賬號,アカウント
+Account-Version,Version,Version,Version,Version,Versión,Version,版本,版本,バージョン
+App_Update_Use,recently used,recently used,recently used,kürzlich verwendet,Recientemente usado,recently used,最近使用,最近使用,最近使用した
+App_Version_Already-New,OpenApply is up to date,OpenApply is up to date,OpenApply is up to date,OpenApply ist auf dem neuesten Stand,OpenApply está actualizado,OpenApply is up to date,OpenApply 已经是最新的版本,OpenApply 已經是最新的版本,OpenApplyは最新です
+App_Version_Cancel_Update,Not Now,Not Now,Not Now,Nicht jetzt,Ahora No,Not Now,取消,取消,後で
+App_Version_Go_Update,Update,Update,Update,Aktualisieren,Actualizar,Update,立即更新,立即更新,更新
+App_Version_Go_Update_Available,An update to OpenApply is available. Would you like to update?,An update to OpenApply is available. Would you like to update?,An update to OpenApply is available. Would you like to update?,Ein Update für OpenApply ist verfügbar.Möchten Sie aktualisieren?,Está disponible una actualización de OpenApply.¿Desea actualizarlo?,An update to OpenApply is available. Would you like to update?,新版本的 OpenApply 现已上架，是否前往更新？,新版本的 OpenApply 現已上架，是否前往更新？,OpenApplyの更新が利用可能です。更新しますか？
+App_Version_Go_Update_Required,An update to OpenApply is required to continue.,An update to OpenApply is required to continue.,An update to OpenApply is required to continue.,"Ein Update für OpenApply ist erforderlich, um fortzufahren.",Es necesaria una actualización de OpenApply para poder continuar.,An update to OpenApply is required to continue.,你必须更新软件才能继续使用 OpenApply,你必須更新軟件才能繼續使用 OpenApply,続行するにはOpenApplyの更新が必要です。
+App_Version_Updated_Available,Update Available,Update Available,Update Available,Update verfügbar,Actualización disponible,Update Available,发现新版本,發現新版本,更新が利用可能です
+App_Version_Updated_Required,Update Required,Update Required,Update Required,Update erforderlich,Es necesaria una actualización,Update Required,版本更新 ,版本更新 ,更新が必要です
+Applicant-Checklist-Hide,Hide Completed,Hide Completed,Hide Completed,Abgeschlossenes ausblenden,Ocultar Completado,Hide Completed,隐藏完成项目,隱藏完成事項,完了を非表示
+Applicant-Checklist-Nohide-Remind,No pending items,No pending items,No pending items,Keine austehenden Einträge,Sin elementos pendientes,No pending items,没有待处理的项目。,沒有待處理的事項。,保留中の項目はありません
+Applicant-Checklist-ResendEmail,Resend via E-mail,Resend via E-mail,Resend via E-mail,Erneut per E-Mail senden,Reenviar a través de correo electrónico,Resend via E-mail,重新发送邮件,重新發送郵件,メールで再送信
+Applicant-Checklist-Show,Show Completed,Show Completed,Show Completed,Abgeschlossenes anzeigen,Mostrar Completado,Show Completed,显示完成项目,顯示完成事項,完了を表示
+Applicant-Checklist-UploadFile,Upload Files,Upload Files,Upload Files,Dateien hochladen,Subir archivos,Upload Files,上传文件,上傳檔案,ファイルをアップロード
+Applicant-Family-Information,Family Information,Family Information,Family Information,Informationen zur Familie,Información de familia,Family Information,家庭信息,家庭資訊,家族情報
+Applicant-Files,Files,Files,Files,Dateien,Archivos,Files,文件,檔案,ファイル
+Applicant-Profile,Profile,Profile,Profile,Profil,Perfil,Profile,详情,詳情,プロフィール
+Applicant-Title,Applicant Profile,Applicant Profile,Applicant Profile,Bewerberprofil,Perfil de solicitante,Applicant Profile,申请人信息,申請人資訊,申請者プロフィール
+Application-Button-ExportPDF,Export PDF,Export PDF,Export PDF,PDF exportieren,Exportar a PDF,Export PDF,导出PDF,匯出 PDF,PDFをエクスポート
+Application-Button-ReViewForm,Review Form,Review Form,Review Form,Formular überprüfen,Revisar formulario,Review Form,检查表单,檢查表單,フォームを確認
+Application-Button-ResendEmail,Resend Email,Resend Email,Resend Email,E-Mail erneut senden,Reenviar correo electrónico,Resend Email,重新发送邮件,重新發送電子郵件,メールを再送信
+Application-Button-UploadFile,Upload File,Upload File,Upload File,Datei hochladen,Subir archivo,Upload File,上传文件,上傳檔案,ファイルをアップロード
+Apply-Status-Exist,Apply with an existing child,Apply with an existing child,Apply with an existing child,Mit einem existierenden Kind bewerben,Solicitar con un niño existente,Apply with an existing child,给已有孩子申请,幫現有孩子申請,既存の子供で申請
+Apply-Status-New,Apply with new child,Apply with new child,Apply with new child,Mit einem neuen Kind bewerben,Solicitar con un nuevo niño,Apply with new child,给新的孩子申请,幫全新孩子申請,新しい子供で申請
+Auth-Camara-Message,OpenApply needs your permission to access the camera,OpenApply needs your permission to access the camera,OpenApply needs your permission to access the camera,"OpenApply benötigt Ihre Erlaubnis, um auf die Kamera zuzugreifen",OpenApply necesita su permiso para acceder a la cámara,OpenApply needs your permission to access the camera,OpenApply需要您同意，才能访问相机,OpenApply 需要您的許可才能存取相機,OpenApplyはカメラにアクセスするための許可が必要です
+Auth-Camara-Title,OpenApply needs access to your camera,OpenApply needs access to your camera,OpenApply needs access to your camera,OpenApply benötigt Zugriff auf Ihre Kamera,OpenApply necesita acceder a su cámara,OpenApply needs access to your camera,OpenApply需要访问您的相机,OpenApply 需要存取您的相機,OpenApplyはカメラへのアクセスが必要です
+Auth-Go-Cancel,Not allowed,Not allowed,Not allowed,Nicht erlaubt,No permitido,Not allowed,不允许,不允許,許可されていません
+Auth-Go-Open,Go to settings to enable,Go to settings to enable,Go to settings to enable,"Gehen Sie zu den Einstellungen, um zu aktivieren",Ir a configuración para habilitar,Go to settings to enable,前往开启,前往設定開啟,設定に移動して有効にする
+Auth-Photo-Message,OpenApply needs your permission to access the gallery,OpenApply needs your permission to access the gallery,OpenApply needs your permission to access the gallery,"OpenApply benötigt Ihre Erlaubnis, um auf die Galerie zuzugreifen",OpenApply necesita su permiso para acceder a la galería,OpenApply needs your permission to access the gallery,OpenApply需要您同意，才能访问相册,OpenApply 需要您的許可才能存取相冊,OpenApplyはギャラリーにアクセスするための許可が必要です
+Auth-Photo-Title,OpenApply needs access to your gallery,OpenApply needs access to your gallery,OpenApply needs access to your gallery,OpenApply benötigt Zugriff auf Ihre Galerie,OpenApply necesita permiso para acceder a su galería,OpenApply needs access to your gallery,OpenApply需要访问您的相册,OpenApply 需要存取您的相冊,OpenApplyはギャラリーへのアクセスが必要です
+Calender-Auth-Description,Allow access to your calendar to add event reminders.,Allow access to your calendar to add event reminders.,Allow access to your calendar to add event reminders.,"Aktivieren den Zugriff auf Ihren Kalender, um Erinnerungen hinzuzufügen.",Permitir acceso a tu calendario para agregar recordatorios de eventos.,Allow access to your calendar to add event reminders.,允许访问您的日历以便添加提醒。,允許存取您的日曆以便新增提醒。,イベントリマインダーを追加するためにカレンダーへのアクセスを許可してください。
+Calender-Auth-Title,Allow 'OpenApply' to access your calendar？,Allow 'OpenApply' to access your calendar？,Allow 'OpenApply' to access your calendar？,Möchten Sie „OpenApply“ den Zugriff auf Ihren Kalender geben?,¿Permitir que 'OpenApply' acceda a tu calendario?,Allow 'OpenApply' to access your calendar？,允许“OpenApply”访问日历？,允許'OpenApply'存取日曆？,'OpenApply'がカレンダーにアクセスすることを許可しますか？
+Camera-Not-Auth,Camera permissions are not enabled.,Camera permissions are not enabled.,Camera permissions are not enabled.,Kamerazugriff ist nicht gestattet,Los permisos de la cámara no están habilitados.,Camera permissions are not enabled.,相机权限受限,相機權限受限,カメラの権限が有効になっていません。
+Camera-NotAuth-Description,Please go to [Settings-Privacy-camera] to enable the camera permission.,Please go to [Settings-Privacy-camera] to enable the camera permission.,Please go to [Settings-Privacy-camera] to enable the camera permission.,Bitte navigieren Sie zu [Einstellungen-Privatsphäre-Kamera] um die Kameraerlaubnis zu aktivieren.,Ir a [Settings-Privacy-camera] para habilitar los permisos de la cámara.,Please go to [Settings-Privacy-camera] to enable the camera permission.,请去-> [设置 - 隐私 - 相机] 打开访问开关。,請至裝置中 > [設置 > 隱私 > 相機] 打開權限開關,[設定-プライバシー-カメラ]に移動して、カメラの権限を有効にしてください。
+CheckList-Item-Action-Done,Make as Completed,Make as Completed,Make as Completed,Mark als abg.,Marco comp.,Make as Completed,标记为完成,標記為完成,完了としてマーク
+CheckList-Item-Action-Due,Due,Due,Due,Fällig,Plazo,Due,截止,截止,期限
+Common-About,About,About,About,Über,Acerca de,About,关于,關於,について
+Common-And,and,and,and,Und,Y,and,与,與,と
+Common-Attach-Camera,Take a Photo,Take a Photo,Take a Photo,Ein Foto machen,Sacar una foto,Take a Photo,拍照,拍照,写真を撮る
+Common-Attach-File,Attach File,Attach File,Attach File,Datei anhängen,Adjuntar archivo,Attach File,添加附件,插入附件,ファイルを添付
+Common-Attach-Image,Insert from Photo Gallery,Insert from Photo Gallery,Insert from Photo Gallery,Aus der Fotogalerie einfügen,Insertar de la galería de fotos,Insert from Photo Gallery,从相册选取,從相簿挑選,フォトギャラリーから挿入
+Common-Attach-Video,Choose Video,Choose Video,Choose Video,Ein Video wählen,Elegir vídeo,Choose Video,视频,影片,動画を選択
+Common-Cancel,Cancel,Cancel,Cancel,Abbrechen,Cancelar,Cancel,取消,取消,キャンセル
+Common-Date,Date,Date,Date,Datum,Fecha,Date,日期,日期,日付
+Common-Done,Done,Done,Done,Fertig,Hecho,Done,保存,儲存,完了
+Common-Filter,Filter,Filter,Filter,Filter,Filtro,Filter,筛选,篩選,フィルター
+Common-Log-Out,Are you sure you want to log out?,Are you sure you want to log out?,Are you sure you want to log out?,"Sind Sie sicher, dass Sie sich abmelden möchten?",¿Está seguro de que quiere cerrar la sesión?,Are you sure you want to log out?,确定要退出登录吗？,確定是否登出？,ログアウトしてもよろしいですか？
+Common-Reset,Reset,Reset,Reset,Zurücksetzen,Restablecer,Reset,重置,重置,リセット
+Common-Search,Search,Search,Search,Suchen,Buscar,Search,搜索,搜尋,検索
+Common-Security,Security & Legal Notice,Security & Legal Notice,Security & Legal Notice,Sicherheits- und rechtliche Hinweise,Avisos legales y de seguridad,Security & Legal Notice,安全与法律声明,安全與法律聲明,セキュリティと法的通知
+Common-Select,Select,Select,Select,Auswählen,Seleccionar,Select,选择,選擇,選択
+Common-Select-Date,Please select a date,Please select a date,Please select a date,Bitte wählen Sie ein Datum,Seleccionar una fecha,Please select a date,请选择日期,請選擇日期,日付を選択してください
+Common-Sure,OK,OK,OK,OK,OK,OK,确定,確定,OK
+Common-Type,Type,Type,Type,Typ,Tipo,Type,类型,類型,タイプ
+Day-AM,AM,AM,AM,AM,AM,AM,上午,上午,午前
+Day-At,at,at,at,at,at,at,在,在,に
+Day-Friday,Friday,Friday,Friday,Freitag,Viernes,Friday,星期五,星期五,金曜日
+Day-Monday,Monday,Monday,Monday,Montag,Lunes,Monday,星期一,星期一,月曜日
+Day-PM,PM,PM,PM,PM,PM,PM,下午,下午,午後
+Day-Saturday,Saturday,Saturday,Saturday,Samstag,Sábado,Saturday,星期六,星期六,土曜日
+Day-Sunday,Sunday,Sunday,Sunday,Sonntag,Domingo,Sunday,星期日,星期日,日曜日
+Day-Thursday,Thursday,Thursday,Thursday,Donnerstag,Jueves,Thursday,星期四,星期四,木曜日
+Day-Today,Today,Today,Today,Heute,Hoy,Today,今日,在今日,今日
+Day-Today-At,Today at,Today at,Today at,Heute um,Hoy a las,Today at,在今日,在今日,今日
+Day-Tuesday,Tuesday,Tuesday,Tuesday,Dienstag,Martes,Tuesday,星期二,星期二,火曜日
+Day-Wednesday,Wednesday,Wednesday,Wednesday,Mittwoch,Miércoles,Wednesday,星期三,星期三,水曜日
+Day-Yesterday,Yesterday,Yesterday,Yesterday,Gestern,Ayer,Yesterday,昨天,在昨天,昨日
+Day-Yesterday-At,Yesterday at,Yesterday at,Yesterday at,Gestern um,Ayer a las,Yesterday at,在昨天,在昨天,昨日
+Email-Cant-Null,Email and/or Region is invalid,Email and/or Region is invalid,Email and/or Region is invalid,E-mail und/oder Region ist ungültig,El correo electrónico y/o región no es válido,Email and/or Region is invalid,邮箱或地区不能为空,電子郵件或地區不能為空,メールおよび/または地域が無効です
+EndPoint-Choose-Description,Choose Region,Choose Region,Choose Region,Endpunkt wählen,Elegir resultado,Choose Region,请选择服务区域,請選擇服務區域,地域を選択
+Event-Calender-Remind, Remind Me, Remind Me, Remind Me, Remind Me, Recuérdame, Remind Me, 提醒我, 提醒我, リマインドする
+Event-Cancel-Keep,Keep Event,Keep Event,Keep Event,Veranstaltung behalten,Mantener evento,Keep Event,保留活动,保留活動,イベントを保持
+Event-Cancel-Message,Are you sure you want to cancel this event? This action cannot be undone.,Are you sure you want to cancel this event? This action cannot be undone.,Are you sure you want to cancel this event? This action cannot be undone.,"Sind Sie sicher, dass Sie diese Veranstaltung stornieren möchten? Diese Aktion kann nicht rückgängig gemacht werden.",¿Está seguro de que desea cancelar este evento? Esta acción no se puede deshacer.,Are you sure you want to cancel this event? This action cannot be undone.,您确定要取消此活动吗？此操作无法撤销。,您確定要取消此活動嗎？此操作無法撤銷。,このイベントをキャンセルしてもよろしいですか？この操作は元に戻せません。
+Event-Cancel-Success,Cancel Successful!,Cancel Successful!,Cancel Successful!,Erfolgreich abgebrochen,Evento Cancelado,Cancel Successful!,取消成功,取消成功,キャンセル成功！
+Event-Cancel-Title,Cancel Event,Cancel Event,Cancel Event,Veranstaltung stornieren,Cancelar evento,Cancel Event,取消活动,取消活動,イベントをキャンセル
+Event-Check-Message,Congratulations! Your check-in has been confirmed.,Congratulations! Your check-in has been confirmed.,Congratulations! Your check-in has been confirmed.,Herzlichen Glückwunsch! Ihre Anmeldung wurde bestätigt.,¡Felicidades! Se ha confirmado su registro.,Congratulations! Your check-in has been confirmed.,恭喜！您的签到已确认。,恭喜！您的簽到已確認。,おめでとうございます！チェックインが確認されました。
+Event-Check-Title,Check In Successful!,Check In Successful!,Check In Successful!,Erfolgreich angemeldet!,Registro Realizado Correctamente!,Check In Successful!,签到成功！,簽到成功！,チェックイン成功！
+Event-Detail-Cancel,Cancel this Event,Cancel this Event,Cancel this Event,Diese Veranstaltung stornieren,Cancelar evento,Cancel this Event,取消此活动,取消此活動,このイベントをキャンセル
+Event-ErrorMessage-AlignCode,Please scan the Check In QR Code,Please scan the Check In QR Code,Please scan the Check In QR Code,Bitte benutzen Sie den QR Code zur Anmeldung,"Por favor, alinee el código QR de registro",Please scan the Check In QR Code,请对准签到二维码,請對準簽到QR碼,チェックインQRコードをスキャンしてください
+Event-ErrorMessage-NoEvent,No available event. Please make sure you scan the correct event QR code.,No available event. Please make sure you scan the correct event QR code.,No available event. Please make sure you scan the correct event QR code.,"Keine verfügbare Veranstaltung. Bitte stellen Sie sicher, dass Sie den richtigen Veranstaltungs-QR-Code benutzt haben.",No hay eventos disponibles para el registro. Asegúrese de escanear el código QR del evento correcto.,No available event. Please make sure you scan the correct event QR code.,暂无可用的签到活动。请确保您扫描了正确的活动二维码。,暫無可用的簽到活動。請確保您掃描了正確的活動 QR 碼。,利用可能なイベントがありません。正しいイベントQRコードをスキャンしてください。
+Event-Invalid-Code,OpenApply can not identify the QR Code.,OpenApply can not identify the QR Code.,OpenApply can not identify the QR Code.,OpenApply kann den QR-Code nicht identifizieren,OpenApply no puede leer el código QR,OpenApply can not identify the QR Code.,OpenApply 无法识别该二维码,OpenApply 無法識別該 QR 碼,OpenApplyはQRコードを識別できません。
+Event-Join-Avtive,Join,Join,Join,Beitreten,Unirse,Join,参加,參加,参加
+Event-List-Reminder,Please select the activity you want to check in from the list below and click Continue.,Please select the activity you want to check in from the list below and click Continue.,Please select the activity you want to check in from the list below and click Continue.,"Bitte wählen Sie die Aktivität aus, für die Sie einchecken möchten, und klicken Sie auf Weiter.","Por favor, seleccione la actividad en la lista de abajo en la que desea registrarse y haga clic en Continuar.",Please select the activity you want to check in from the list below and click Continue.,请从下面的列表中选择您要签到的活动，点击继续,請從下面的列表中選擇您要簽到的活動，點擊繼續。,以下のリストからチェックインしたいアクティビティを選択して、続行をクリックしてください。
+Event-Scan-QRCode,Scan QR code.,Scan QR code.,Scan QR code.,QR-Code scannen,Escanear código QR,Scan QR code.,扫描二维码,掃描二維碼.,QRコードをスキャン。
+Events-Detail,Event Details,Event Details,Event Details,Veranstaltungsdetails,Detalles del evento,Event Details,活动详情,活動詳情,イベント詳細
+Events-Detail-Author,Host,Host,Host,Veranstalter,Anfitrión,Host,主持人,主辦人,ホスト
+Events-Detail-Children,Children,Children,Children,Kinder,Hijos,Children,孩子,孩子,子供
+Events-Detail-Description,Details,Details,Details,Details,Detalles,Details,详情,詳情,詳細
+Events-Detail-Location,Location,Location,Location,Veranstaltungsort,Ubicación,Location,位置,地點,場所
+Events-No-Event,No Upcoming Events,No Upcoming Events,No Upcoming Events,Keine bevorstehenden Veranstaltungen,No hay próximos eventos,No Upcoming Events,没有即将举行的活动,沒有即將到來的活動,今後のイベントはありません
+Events-No-EventDes,Schedule an event to see the school,Schedule an event to see the school,Schedule an event to see the school,Wählen Sie einen Termin aus um die Schule zu besuchen.,Programar un evento para visitar la escuela.,Schedule an event to see the school,当前还没有即将举行的活动,目前沒有即將到來的活動,学校見学のイベントをスケジュール
+Events-Title,Upcoming Events,Upcoming Events,Upcoming Events,Bevorstehende Veranstaltungen,Próximos eventos,Upcoming Events,即将举行的活动,即將到來的活動,今後のイベント
+Events-Type-Interview,Interview,Interview,Interview,Vorstellungsgespräch,Entrevista,Interview,面试,面試,面接
+Events-Type-OpenDay,OpenDay,OpenDay,OpenDay,Offener Tag,Día abierto,OpenDay,开放日,開放日,オープンデー
+Events-Type-Tour,Tour,Tour,Tour,Tour,Visita,Tour,游览,遊覽,ツアー
+File-Toast-FileSize,Attachment file size limit: 500M,Attachment file size limit: 500M,Attachment file size limit: 500M,Dateigrößenlimit für Anhänge: 500 MB,Tamaño del archivo adjunto limitado: 500M,Attachment file size limit: 500M,附件大小限制：500M,附件大小限制：500MB,添付ファイルサイズ上限：500M
+File-Toast-ImageSize,The size of the picture must be less than 50M.,The size of the picture must be less than 50M.,The size of the picture must be less than 50M.,Die Größe des Bildes muss weniger als 50 MB betragen.,El tamaño de la foto debe ser de menos de 50M.,The size of the picture must be less than 50M.,图片大小须小于50M,圖片大小需小於 50MB,画像のサイズは50M未満である必要があります。
+File-Toast-Invalid,Invalid file,Invalid file,Invalid file,Ungültige Datei,Archivo no válido,Invalid file,无效的文件,無效的檔案格式,無効なファイル
+File-Toast-Permission,File permission acquisition failed.,File permission acquisition failed.,File permission acquisition failed.,Erwerb der Dateiberechtigung fehlgeschlagen,La obtención de permiso del archivo ha fallado,File permission acquisition failed.,文件权限获取失败,檔案權限,ファイル権限の取得に失敗しました。
+File-Upload-By,by,by,by,von,las,by,经过,經過,による
+File-Upload-Error,Upload Failed. Please make sure your network is working.,Upload Failed. Please make sure your network is working.,Upload Failed. Please make sure your network is working.,"Upload fehlgeschlagen.Bitte stellen Sie sicher, dass Ihr Netzwerk funktioniert.",Error al subir el archivo.Asegúrese de que su red está funcionando.,Upload Failed. Please make sure your network is working.,上传失败，请再次确认您是否已连上网络。,上傳失敗，請再次確認您是否已連上網絡,アップロードに失敗しました。ネットワークが機能していることを確認してください。
+File-Upload-Net-Error,Network exception,Network exception,Network exception,Netzwerk-Ausnahme,Excepción de red,Network exception,网络异常,網絡異常,ネットワーク例外
+Files-Delete,Delete File,Delete File,Delete File,Datei löschen,Eliminar archivo,Delete File,删除文件,刪除檔案,ファイルを削除
+Files-Delete-Description,Are you sure to delete the file?,Are you sure to delete the file?,Are you sure to delete the file?,"Sind Sie sicher, dass Sie die Datei löschen wollen?",¿Está seguro de que quiere eliminar el fichero?,Are you sure to delete the file?,确定要删除文件吗？,確定要刪除檔案嗎？,ファイルを削除してもよろしいですか？
+Files-Filter-Checklist,Checklist,Checklist,Checklist,Checkliste,Lista de comprobación,Checklist,申请清单,申請列表,チェックリスト
+Files-Filter-Email,Email,Email,Email,E-Mail,Correo electrónico,Email,邮件,電子郵件,メール
+Files-Filter-Form,Form,Form,Form,Formular,Formulario,Form,表单,表單,フォーム
+Files-Filter-Message,Message,Message,Message,Meldung,Mensaje,Message,消息,訊息,メッセージ
+Files-Filter-Profile,Profile,Profile,Profile,Profil,Perfil,Profile,简介,簡介,プロフィール
+Files-Type-CantRead,File format is not supported.,File format is not supported.,File format is not supported.,Dateiformat ist nicht unterstützt,El formato de archivo no es admitido,File format is not supported.,文件格式不支持预览,檔案格式不支持預覽,ファイル形式はサポートされていません。
+Files-upload-Success,The file has been successfully uploaded.,The file has been successfully uploaded.,The file has been successfully uploaded.,The Datei wurde erfolgreich hochgeladen.,El archivo se ha cargado con éxito,The file has been successfully uploaded.,文件上传成功,檔案上傳成功,ファイルが正常にアップロードされました。
+Forgot-Password-Alter-Done,Done,Done,Done,Fertig,Hecho,Done,完成,完成,完了
+Forgot-Password-Alter-Message,Password reset instructions have been sent to the specified email.,Password reset instructions have been sent to the specified email.,Password reset instructions have been sent to the specified email.,Passwortinstruktionen wurden and die angegebene E-Mail Adresse gesendet.,Las instrucciones de la contraseña reiniciada han sido enviadas al correo electrónico indicado.,Password reset instructions have been sent to the specified email.,密码重置说明已发送至指定邮箱,密碼重置說明已發送至指定郵箱,パスワードリセットの手順が指定されたメールに送信されました。
+Forgot-Password-Alter-OpenMail,Open Mail,Open Mail,Open Mail,E-Mail öffnen,Abrir correo electrónico,Open Mail,打开邮箱,打開郵箱,メールを開く
+Forgot-Password-Alter-Title,Password Reset,Password Reset,Password Reset,Neues Passwort,Contraseña reiniciada,Password Reset,密码重置,密碼重置,パスワードリセット
+Google-Alter-Unlink-Dec,Want to unlink your Google account?,Want to unlink your Google account?,Want to unlink your Google account?,Möchten Sie Ihr Google-Konto trennen?,¿Quiere desvincular su cuenta de Google?,Want to unlink your Google account?,想解除绑定Google账号？,想解除綁定 Google 帳戶？,Googleアカウントのリンクを解除しますか？
+Google-Link-Title,Google,Google,Google,Google,Google,Google,Google,Google,Google
+Google-Login-No-Schools,We couldn't find the school associated with your Google account. Please log in using your email or phone number.,We couldn't find the school associated with your Google account. Please log in using your email or phone number.,We couldn't find the school associated with your Google account. Please log in using your email or phone number.,Wir konnten die mit Ihrem Google-Konto verknüpfte Schule nicht finden. Bitte melden Sie sich mit Ihrer E-Mail-Adresse oder Telefonnummer an.,"No hemos encontrado la escuela asociada a tu cuenta de Google. Por favor, inicia sesión utilizando tu correo electrónico o número de teléfono.",We couldn't find the school associated with your Google account. Please log in using your email or phone number.,暂无未查到您Google绑定的学校，请通过邮箱，或手机号登录。,暫未查到你Google已綁定的學校，請通過郵箱或手機號登錄。,Googleアカウントに関連する学校が見つかりませんでした。メールまたは電話番号を使用してログインしてください。
+Google-Unlink-Success,Your account has successfully been unlinked with Google.,Your account has successfully been unlinked with Google.,Your account has successfully been unlinked with Google.,Ihr Konto wurde erfolgreich von Google getrennt.,Su cuenta se ha desvinculado de Google.,Your account has successfully been unlinked with Google.,您的账号已成功取消与Google的绑定。,您的帳戶已成功取消與 Google 的綁定。,アカウントがGoogleとのリンクを解除しました。
+Home-Enrollment-Description,Please give your enrolment decision for %@ .,Please give your enrolment decision for %@ .,Please give your enrolment decision for %@ .,Bitte geben Sie Ihre Entscheidung über die Anmeldung für %@ bekannt.,Dar su resolución de matriculación a %@.,Please give your enrolment decision for %@ .,请点击这里为%@给出入学决定,請點擊這裡為%@做出入學決定,%@の入学決定を行ってください。
+Home-Event-CheckIn,  Check In,  Check In,  Check In,  Anmelden,  Registrarse,  Check In,  签到,  簽到,  チェックイン
+Home-Event-CheckedIn,Attended,Attended,Attended,Teilgenommen,Registrado,Attended,已参加,已参加,出席済み
+Home-Event-Description,You have %li event(s) to check in.,You have %li event(s) to check in.,You have %li event(s) to check in.,"Sie haben %li Veranstaltung(en), die eingecheckt werden müssen.",Tiene %li evento(s) para hacer check-in.,You have %li event(s) to check in.,您有%li个活动需要签到。,您有%li個活動需要簽到。,%li件のイベントにチェックインする必要があります。
+Home-Event-Select,Select Event,Select Event,Select Event,Veranstaltung auswählen,Seleccionar evento,Select Event,选择活动,選擇活動,イベントを選択
+Home-Event-Title,Check In,Check In,Check In,Anmelden,Registro,Check In,签到,,チェックイン
+Home-Invoice-Description,"You have %li outstanding invoices to pay, Please visit the Invoices & Fees page.","You have %li outstanding invoices to pay, Please visit the Invoices & Fees page.","You have %li outstanding invoices to pay, Please visit the Invoices & Fees page.",Sie haben %li austehende Rechnungen. Bitte besuchen Sie die Rechnungen & Gebühren Seite.,Tiene %li facturas pendientes de pago. Visite la página de Facturas y Tasas.,"You have %li outstanding invoices to pay, Please visit the Invoices & Fees page.",您有%li笔费用待付，请访问「账单及费用」页面进行结算。,您有%li筆待付費用，請至「賬單與費用」頁面付款。,%li件の未払い請求書があります。請求書と料金ページをご確認ください。
+Home-Invoice-GoPay,Pay Online,Pay Online,Pay Online,Online bezahlen,Pagar en línea,Pay Online,在线支付,線上付款,オンライン支払い
+Home-Invoice-Reminder,Invoice Reminder,Invoice Reminder,Invoice Reminder,Rechnungserinnerung,Recordatorio de factura,Invoice Reminder,账单提醒,賬單提醒,請求書リマインダー
+Home-Invoice-Total,Total Outstanding:,Total Outstanding:,Total Outstanding:,Ausstehende Summe:,Total pendiente:,Total Outstanding:,总费用:,總費用：,未払い合計：
+Home-Item-Application,Submit an Application,Submit an Application,Submit an Application,Bewerbung einreichen,Enviar una solicitud,Submit an Application,申请,申請,申請を送信
+Home-Item-Enquiry,Submit a New Enquiry,Submit a New Enquiry,Submit a New Enquiry,Neue Anfrage einreichen,Enviar una consulta nueva,Submit a New Enquiry,问询,諮詢,新しいお問い合わせを送信
+Home-Item-Invoice,Invoices & Fees,Invoices & Fees,Invoices & Fees,Rechnungen und Gebühren,Facturas y tasas,Invoices & Fees,账单及费用,賬單及費用,請求書と料金
+Home-Item-Menu,Menu,Menu,Menu,Menü,Menú,Menu,菜单,選單,メニュー
+Home-Item-OpenDay,Open Day,Open Day,Open Day,Tag der offenen Tür,Jornada de puertas abiertas,Open Day,开放日,開放日,オープンデー
+Home-Item-Tour,Schedule a Tour,Schedule a Tour,Schedule a Tour,Tour vereinbaren,Programar una visita,Schedule a Tour,游览,遊覽,ツアーを予約
+Home-Item-UpCommingEvent,Upcoming Events,Upcoming Events,Upcoming Events,Bevorstehende Veranstaltungen,Próximos eventos,Upcoming Events,即将举行的活动,即將到來的活動,今後のイベント
+Home-ReEnrollment-Description,Please give your re-enrolment decision for %@ before %@.,Please give your re-enrolment decision for %@ before %@.,Please give your re-enrolment decision for %@ before %@.,Bitte geben Sie Ihre Entscheidung über die Wiederanmeldung für %@ vor %@ bekannt.,Dar su resolución de rematriculación para %@ antes de %@.,Please give your re-enrolment decision for %@ before %@.,请点击这里为%@给出续读决定，报名截止日期%@。,請點選此處為%@做出續讀確認，報名截止日期為%@。,%@の再入学決定を%@までに行ってください。
+Home-Title,Dashboard,Dashboard,Dashboard,Dashboard,Panel de control,Dashboard,总览,總覽,ダッシュボード
+IDAT_Not_Avaialble_Describe,"This checklist item is not available on mobile, please use a web browser to access it.","This checklist item is not available on mobile, please use a web browser to access it.","This checklist item is not available on mobile, please use a web browser to access it.",Dieser Checklisteneintrag ist nicht in der mobilen App zugänglich. Bitte benutzen Sie einen Webbrowser um den Eintrag einzusehen.,Este elemento de la lista de comprobación no está disponible en el móvil; utilice un navegador para acceder a él.,"This checklist item is not available on mobile, please use a web browser to access it.",此项目尚不支持手机浏览，请使用电脑继续浏览该项目。,此事項尚未支援手機瀏覽，請使用電腦繼續瀏覽該事項。,このチェックリスト項目はモバイルでは利用できません。Webブラウザを使用してアクセスしてください。
+IDAT_Not_Avaialble_on_Moblie,IDAT not available on the mobile app.,IDAT not available on the mobile app.,IDAT not available on the mobile app.,IDAT is nicht in der mobilen App vorhanden.,IDAT no está disponible en la aplicación móvil,IDAT not available on the mobile app.,IDAT 尚不支持手机浏览,IDAT 尚未支援手機瀏覽,IDATはモバイルアプリでは利用できません。
+Inbox-Filter-ShowUnread,Only Show Unread Notifications,Only Show Unread Notifications,Only Show Unread Notifications,Nur ungelesene Benachrichtigungen anzeigen,Mostrar sólo notificaciones no leídas,Only Show Unread Notifications,只显示未读通知,只顯示未讀通知,未読通知のみを表示
+Inbox-Make-Star,Star,Star,Star,Star,Star,Star,收藏,收藏,スター
+Inbox-Make-Unread,Make as Unread,Make as Unread,Make as Unread,Als Ungelesen markieren,Marcar como no leído,Make as Unread,标记为未读,標記為未讀,未読にする
+Inbox-Messages,Messages,Messages,Messages,Meldungen,Mensajes,Messages,消息,訊息,メッセージ
+Inbox-Nothing-News,Nothing new for you,Nothing new for you,Nothing new for you,Keine neuen Benachrichtigungen,Nada nuevo para usted.,Nothing new for you,对你来说没有什么新鲜事。,對你來說沒有什麼新鮮事。,新着情報はありません
+Inbox-Notification,Notifications,Notifications,Notifications,Benachrichtigungen,Notificaciones,Notifications,通知,通知,通知
+Inbox-Notification-New,New for You,New for You,New for You,Neu für Sie,Nuevo para usted,New for You,未读消息,未讀訊息,新着
+Inbox-Notification-Previou,Previous Notifications,Previous Notifications,Previous Notifications,Vorherige Benachrichtigungen,Notificaciones previas,Previous Notifications,历史通知,歷史通知,過去の通知
+Inbox-Notification-Read,Mark all as Read,Mark all as Read,Mark all as Read,Alle als gelesen markieren,Marcar todo como leído,Mark all as Read,全部标记已读,全部標示為已讀,すべて既読にする
+Inbox-Remove-Starred,Remove from Starred,Remove from Starred,Remove from Starred,Von Favorisiert entfernen,Eliminar de favoritos,Remove from Starred,从已加星标中移除,從已加星標中移除,スターを外す
+Inbox-Search-NoData,The keyword was not found,The keyword was not found,The keyword was not found,Das Stichwort wurde nicht gefunden,La palabra clave no se ha encontrado,The keyword was not found,找不到关键字,找不到關鍵字,キーワードが見つかりませんでした
+Inbox-Search-Starred,Starred,Starred,Starred,Favorisiert,Favoritos,Starred,已加星标,已加星標,スター付き
+Inbox-Title,Inbox,Inbox,Inbox,Posteingang,Buzón de entrada,Inbox,收件箱,收件夾,受信箱
+Inbox-Toast-NoMoreUnred,No unread notifications.,No unread notifications.,No unread notifications.,Keine ungelesenen Benachrichtigungen,No hay notificaciones nuevas,No unread notifications.,没有更多未读通知,沒有更多未讀通知,未読の通知はありません。
+Inbox-Toast-NoUnred,Check back here for new notifications.,Check back here for new notifications.,Check back here for new notifications.,Lesen Sie neue Benachrichtigungen hier,Volver a comprobar las nuevas notificaciones aquí,Check back here for new notifications.,返回此处查看新通知,返回此處查看新通知,新しい通知はここで確認してください。
+Invoices-Amount,Amount,Amount,Amount,Betrag,Cantidad,Amount,金额,金額,金額
+Invoices-DueDate,Due Date,Due Date,Due Date,Fälligkeitsdatum,Fecha de vencimiento,Due Date,截止日期,截止日期,期限
+Invoices-Generate-Invoice,Generate Invoice,Generate Invoice,Generate Invoice,Rechnung generieren,Generar factura,Generate Invoice,创建账单,創建賬單,請求書を生成
+Invoices-No-Payments,No Payments,No Payments,No Payments,Keine Zahlungen,No tiene pagos,No Payments,没有款项,沒有款項,支払いなし
+Invoices-NoPayments-Description,Your payments will appear here.,Your payments will appear here.,Your payments will appear here.,Ihre Bezahlungen werden hier angezeigt.,Sus pagos aparecerán aquí.,Your payments will appear here.,当前没有账单,目前沒有賬單,お支払い情報がここに表示されます。
+Invoices-NoPayments-ReceivedInvoices-Description,You have not received any invoices from the school.,You have not received any invoices from the school.,You have not received any invoices from the school.,Sie haben keine Rechnungen von der Schule erhalten.,No ha recibido ninguna factura de la escuela.,You have not received any invoices from the school.,你没有收到学校的任何发票。,你沒有收到學校的任何發票。,学校から請求書を受け取っていません。
+Invoices-Open,Open Invoices,Open Invoices,Open Invoices,Offenen Rechnungen,Facturas abiertas,Open Invoices,未支付,未支付,未払い請求書
+Invoices-Pay-Now,Pay Now,Pay Now,Pay Now,Jetzt bezahlen,Pagar ahora,Pay Now,去支付,去付款,今すぐ支払う
+Invoices-PayOn,Paid On,Paid On,Paid On,Bezahlt am,Pagado,Paid On,支付日期,付款日期,支払日
+Invoices-Received,Received Invoices,Received Invoices,Received Invoices,Empfangen Rechnungen,Facturas recibidas,Received Invoices,已支付,已支付,受領済み請求書
+Invoices-Title,Invoices & Fees,Invoices & Fees,Invoices & Fees,Rechnungen und Gebühren,Facturas y tasas,Invoices & Fees,账单及费用,賬單及費用,請求書と料金
+Invoices-Total-Outstanding,Total Outstanding,Total Outstanding,Total Outstanding,Ausstehende Summe,Total pendiente,Total Outstanding,总待付费用,總待付費用,未払い合計
+Invoices-Type,Type,Type,Type,Typ,Tipo,Type,类型,類型,タイプ
+Invoices-via,via,via,via,über,A través de,via,通过,通過,経由
+Language-Arabic-Error,"This language is not yet supported for the App version, and will temporarily display in English.","This language is not yet supported for the App version, and will temporarily display in English.","This language is not yet supported for the App version, and will temporarily display in English.",Diese Sprache wird für die App-Version nicht unterstützt und wird vorübergehend in englischer Sprache angezeigt.,"Este idioma aún no está soportado para la versión App, y se mostrará temporalmente en inglés.","This language is not yet supported for the App version, and will temporarily display in English.",当前版本不支持阿拉伯语，将暂时展示英文。,當前版本不支持阿拉伯語，將暫時展示英文,この言語はアプリバージョンではまだサポートされておらず、一時的に英語で表示されます。
+Login-CodeSent,Code has been sent (%@ sec),Code has been sent (%@ sec),Code has been sent (%@ sec),Code wurde gesendet (%@ Sek.),Código enviado (%@ seg),Code has been sent (%@ sec),验证码已发送（%@ 秒）,驗證碼已發送（%@ 秒）,コードが送信されました（%@秒）
+Login-EnterPhoneNumber,Please enter the phone number,Please enter the phone number,Please enter the phone number,Bitte geben Sie die Telefonnummer ein,"Por favor, ingrese su número de teléfono. ",Please enter the phone number,请输入手机号码,請輸入手機號碼,電話番号を入力してください
+Login-EnterVerificationCode,Please enter the verification code,Please enter the verification code,Please enter the verification code,Bitte geben Sie den Verifizierungscode ein,"Por favor, ingrese el código de verificación",Please enter the verification code,请输入验证码,請輸入驗證碼,認証コードを入力してください
+Login-Failed-Description,Please verify your email address and try again.,Please verify your email address and try again.,Please verify your email address and try again.,Bitte bestätigen Sie Ihre E-Mail Adresse und versuchen Sie es erneut.,Verificar su dirección de correo y volver a intentarlo.,Please verify your email address and try again.,请验证您的电子邮件地址，然后重试,請驗證您的電子郵件地址，然後重試,メールアドレスを確認して、もう一度お試しください。
+Login-Failed-Description-Netwrok,Your internet connection is unstable. Please check your network connection and try again.,Your internet connection is unstable. Please check your network connection and try again.,Your internet connection is unstable. Please check your network connection and try again.,Internetverbindung ist nicht stabil. Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.,"Internet no es estable, compruebe su conexión a Internet y volver a intentarlo.",Your internet connection is unstable. Please check your network connection and try again.,网络不稳定，请检查您的网络连接并重试,網絡不穩定，請檢查您的網絡連接並重試,インターネット接続が不安定です。ネットワーク接続を確認して、もう一度お試しください。
+Login-Failed-Title,Login,Login,Login,Anmeldung,Iniciar sesión,Login,登录,登入,ログイン
+Login-Or,Or,Or,Or,Oder,O,Or,或者,或者,または
+Login-Region-China,China,China,China,China,China,China,中国,中國,中国
+Login-Region-Demo,Demo,Demo,Demo,Demo,Demo,Demo,演示,演示,デモ
+Login-Region-Europe,"United Kingdom, Qatar, Sweden","United Kingdom, Qatar, Sweden","United Kingdom, Qatar, Sweden","United Kingdom, Qatar, Sweden","United Kingdom, Qatar, Sweden","United Kingdom, Qatar, Sweden",英国、卡塔尔、瑞典,英國、卡塔爾、瑞典,英国、カタール、スウェーデン
+Login-Region-Global,Global,Global,Global,Global,Global,Global,全球,全球,グローバル
+Login-SMS,Sign In with SMS,Sign In with SMS,Sign In with SMS,Mit SMS anmelden,Inicio de sesión por SMS,Sign In with SMS,短信登录,簡訊登錄,SMSでサインイン
+Login-SMS-FailRemind,The current phone number is not associated with the school. Please verify your phone number on the website first.,The current phone number is not associated with the school. Please verify your phone number on the website first.,The current phone number is not associated with the school. Please verify your phone number on the website first.,Die aktuelle Telefonnummer ist nicht mit der Schule verknüpft. Bitte überprüfen Sie zuerst Ihre Telefonnummer auf der Website.,"El número de teléfono actual no está asociado con la escuela. Por favor, verifique su número de teléfono en el sitio web primero.",The current phone number is not associated with the school. Please verify your phone number on the website first.,当前手机号码未关联学校，请先在网站验证手机号。,當前手機號碼未關聯學校，請先在網站驗證手機號碼。,現在の電話番号は学校に関連付けられていません。まずウェブサイトで電話番号を確認してください。
+Login-SMS-Phone,Please enter your phone number to complete the SMS verification process. We will send you a one-time verification code to facilitate your sign-in.,Please enter your phone number to complete the SMS verification process. We will send you a one-time verification code to facilitate your sign-in.,Please enter your phone number to complete the SMS verification process. We will send you a one-time verification code to facilitate your sign-in.,"Bitte geben Sie Ihre Telefonnummer ein, um den SMS-Verifizierungsprozess abzuschließen. Wir senden Ihnen einen einmaligen Verifizierungscode, um Ihnen die Anmeldung zu erleichtern.","El número de teléfono actual no está asociado con la escuela. Por favor, primero verifique su número de teléfono en el sitio web.",Please enter your phone number to complete the SMS verification process. We will send you a one-time verification code to facilitate your sign-in.,请填写您的手机号码，并完成短信验证。我们将发送一次性验证码以便您完成登录。,請填寫您的手機號碼，並完成短信驗證。我們將發送一次性驗證碼以便您完成登錄。,SMS認証プロセスを完了するには、電話番号を入力してください。サインインを容易にするためにワンタイム認証コードを送信します。
+Login-SMS-Resend,Resend Code,Resend Code,Resend Code,Erneut senden,Reenviar el código de verificación,Resend Code,重新发送,重新傳送,コードを再送信
+Login-SMS-Verification,Please enter the verification code you received via SMS to complete the SMS verification process.,Please enter the verification code you received via SMS to complete the SMS verification process.,Please enter the verification code you received via SMS to complete the SMS verification process.,"Bitte geben Sie den Verifizierungscode ein, den Sie per SMS erhalten haben, um den SMS-Verifizierungsprozess abzuschließen.","Por favor, ingresa el código de verificación que recibiste por SMS para completar el proceso de verificación por SMS.",Please enter the verification code you received via SMS to complete the SMS verification process.,请输入您通过短信收到的验证码，以完成短信验证流程。,請輸入您透過簡訊收到的驗證碼，以完成簡訊驗證流程。,SMS認証プロセスを完了するには、SMSで受信した認証コードを入力してください。
+Login-Send-SMS,Send SMS Code,Send SMS Code,Send SMS Code,SMS-Code senden,Enviar código por SMS,Send SMS Code,发送验证码,傳送驗證碼,SMSコードを送信
+Login-Toast-Error,Error,Error,Error,Fehler,Error,Error,错误,錯誤,エラー
+Login-Toast-NoSchool,"No school information found, please check your email.","No school information found, please check your email.","No school information found, please check your email.","Keine Schulinformationen gefunden, bitte überprüfen Sie Ihre E-Mail","No se ha encontrado información de la escuela, compruebe su correo electrónico","No school information found, please check your email.",没有查询到注册学校，请检查电子邮件地址。,沒有查詢到註冊學校，請檢查電子郵件地址。,学校情報が見つかりません。メールを確認してください。
+Login-Toast-Password,Password is invalid,Password is invalid,Password is invalid,Passwort ungültig,La contraseña no es válida,Password is invalid,密码不能为空,密碼不能為空,パスワードが無効です
+Message-AllNulls-Remind,"Message cannot be empty,
+ please try again","Message cannot be empty,
+ please try again","Message cannot be empty,
+ please try again","Nachricht kann nicht leer sein, 
+ bitte versuchen Sie es erneut.","El mensaje no puede estar vacío, por favor, 
+ inténtelo de nuevo.","Message cannot be empty,
+ please try again",留言栏不能为空，请重试。,"訊息欄不可為空, 請重試","メッセージは空にできません。
+もう一度お試しください。"
+Message-External-Link,External Link,External Link,External Link,Externer Link,Enlace externo,External Link,外部链接,外部链接,外部リンク
+Message-Internal-Link,Internal Link,Internal Link,Internal Link,Interner Link,Enlace interno,Internal Link,内部链接,内部链接,内部リンク
+Message-Send-Fail,Message failed to send.,Message failed to send.,Message failed to send.,Senden der Nachricht fehlgeschlagen.,Envío de mensaje fallido,Message failed to send.,消息发送失败,訊息發送失敗,メッセージの送信に失敗しました。
+Message-Send-Retry,Tap to Retry,Tap to Retry,Tap to Retry,"Tippen, um es erneut zu versuchen",Toque para reintentar,Tap to Retry,点击重试,點擊重試,タップして再試行
+Message-Write-Message,Write a message,Write a message,Write a message,Als Nachricht schreiben,Escribir un mensaje,Write a message,输入一条消息,輸入一則訊息,メッセージを書く
+Message-link-Open-Remind,You are now opening the external link. Click OK to continue to:,You are now opening the external link. Click OK to continue to:,You are now opening the external link. Click OK to continue to:,"Sie öffnen jetzt den externen Link. Auf OK klicken, um fortzufahren:",Ahora está abriendo el enlace externo. Haga clic en OK para continuar con:,You are now opening the external link. Click OK to continue to:,即将打开外部链接，点击“确定”继续：,即將打開外部連結，點擊「確定」繼續：,外部リンクを開いています。続行するにはOKをクリックしてください：
+Month-Apr,Apr,Apr,Apr,Apr,Abr,Apr,4月,4月,4月
+Month-Aug,Aug,Aug,Aug,Aug,Ago,Aug,8月,8月,8月
+Month-Dec,Dec,Dec,Dec,Dez,Dic,Dec,12月,12月,12月
+Month-Feb,Feb,Feb,Feb,Feb,Feb,Feb,2月,2月,2月
+Month-Jan,Jan,Jan,Jan,Jan,Ene,Jan,1月,1月,1月
+Month-Jul,Jul,Jul,Jul,Jul,Jul,Jul,7月,7月,7月
+Month-Jun,Jun,Jun,Jun,Jun,Jun,Jun,6月,6月,6月
+Month-Mar,Mar,Mar,Mar,Mär,Mar,Mar,3月,3月,3月
+Month-May,May,May,May,Mai,May,May,5月,5月,5月
+Month-Nov,Nov,Nov,Nov,Nov,Nov,Nov,11月,11月,11月
+Month-Oct,Oct,Oct,Oct,Okt,Oct,Oct,10月,10月,10月
+Month-Sep,Sep,Sep,Sep,Sep,Sep,Sep,9月,9月,9月
+NSCalendarsFullAccessUsageDescription,Allow access to your calendar to add event reminders.,Allow access to your calendar to add event reminders.,Allow access to your calendar to add event reminders.,"Aktivieren den Zugriff auf Ihren Kalender, um Erinnerungen hinzuzufügen.",Permitir acceso a tu calendario para agregar recordatorios de eventos.,Allow access to your calendar to add event reminders.,允许访问您的日历以便添加提醒。,允許存取您的日曆以便新增提醒。,イベントリマインダーを追加するためにカレンダーへのアクセスを許可してください。
+NSCalendarsUsageDescription,Allow access to your calendar to add event reminders.,Allow access to your calendar to add event reminders.,Allow access to your calendar to add event reminders.,"Aktivieren den Zugriff auf Ihren Kalender, um Erinnerungen hinzuzufügen.",Permitir acceso a tu calendario para agregar recordatorios de eventos.,Allow access to your calendar to add event reminders.,允许访问您的日历以便添加提醒。,允許存取您的日曆以便新增提醒。,イベントリマインダーを追加するためにカレンダーへのアクセスを許可してください。
+NSCameraUsageDescription,Allow OpenApply to access Camera to take photos and set up the head portrait,Allow OpenApply to access Camera to take photos and set up the head portrait,Allow OpenApply to access Camera to take photos and set up the head portrait,"Erlauben Sie OpenApply den Zugriff auf die Kamera, um Fotos zu machen und das Kopfportrait einzurichten.",Permitir que OpenApply acceda a la Cámara para sacar fotos y establecer el retrato de cabeza.,Allow OpenApply to access Camera to take photos and set up the head portrait,OpenApply需要访问相机通过拍照设置用户头像或上传图片,OpenApply需要訪問相機通過拍照設置用戶頭像或上傳圖片,OpenApplyが写真を撮影してプロフィール写真を設定するためにカメラにアクセスすることを許可してください
+NSPhotoLibraryUsageDescription,Allow OpenApply to access Photo Library to set up the head portrait,Allow OpenApply to access Photo Library to set up the head portrait,Allow OpenApply to access Photo Library to set up the head portrait,"Erlauben Sie OpenApply den Zugriff auf die Fotobibliothek, um das Kopfportrait einzurichten.",Permitir que OpenApply acceda a la Galería de Fotos para establecer el retrato de cabeza.,Allow OpenApply to access Photo Library to set up the head portrait,OpenApply需要访问相册来设置用户头像或上传图片,OpenApply需要訪問相冊來設置用戶頭像或上傳圖片,OpenApplyがプロフィール写真を設定するためにフォトライブラリにアクセスすることを許可してください
+NetWork-Error-Alter,"Unexpected server error.
+ Please try again later.","Unexpected server error.
+ Please try again later.","Unexpected server error.
+ Please try again later.","Unerwarteter Serverfehler.
+ Bitte versuchen Sie es später erneut.","Error del servidor. 
+ Por favor, inténtelo de nuevo.","Unexpected server error.
+ Please try again later.",服务器连线错误，请稍后再试。,伺服器連線錯誤，請稍後再試。,"予期しないサーバーエラー。
+後でもう一度お試しください。"
+Network-Toast-NetError,No Internet Connection.,No Internet Connection.,No Internet Connection.,Keine Internetverbindung,Sin conexión a Internet,No Internet Connection.,无网络连接,沒有網路連線,インターネット接続なし。
+Network-Toast-NetErrorDis,"You are not connected to the internet. Make sure Wi-Fi is on, Airplane Mode is off, and try again.","You are not connected to the internet. Make sure Wi-Fi is on, Airplane Mode is off, and try again.","You are not connected to the internet. Make sure Wi-Fi is on, Airplane Mode is off, and try again.","Sie sind nicht mit dem Internet verbunden.Stellen Sie sicher, dass Wi-Fi eingeschaltet und der Flugzeugmodus deaktiviert ist, und versuchen Sie es erneut.","No está conectado a internet. Asegúrese de que su Wi-Fi está encendida, el modo avión apagado e inténtelo de nuevo.","You are not connected to the internet. Make sure Wi-Fi is on, Airplane Mode is off, and try again.",您未连接到互联网。请确保Wi-Fi已开启，飞行模式已关闭，然后重试。,您尚未連上網際網路。請確保 Wi-Fi 已開啟，飛航模式已關閉，然後重試。,インターネットに接続されていません。Wi-Fiがオンで、機内モードがオフであることを確認して、もう一度お試しください。
+Network-Toast-Retry,Retry,Retry,Retry,Erneut versuchen,Reintentar,Retry,重试,重試,再試行
+Nofitication-Filter-All,All,All,All,Alle,Todos,All,全部,全部,すべて
+Nofitication-Filter-Applicant,Message to Applicant,Message to Applicant,Message to Applicant,Nachricht an Bewerber,Mensaje para el solicitante,Message to Applicant,留言给申请者,留言給申請者,申請者へのメッセージ
+Nofitication-Filter-Checklist,Checklist,Checklist,Checklist,Checkliste,Lista de comprobación,Checklist,申请材料清单,申請項目列表,チェックリスト
+Nofitication-Filter-Enrolment,Enrolment,Enrolment,Enrolment,Anmeldung,Matriculación,Enrolment,注册,註冊,入学
+Nofitication-Filter-Interview,Interview,Interview,Interview,Vorstellungsgespräch,Entrevista,Interview,面试,面試,面接
+Nofitication-Filter-Invoice,Invoice,Invoice,Invoice,Rechnung,Factura,Invoice,账单,賬單,請求書
+Nofitication-Filter-ReEnrolment,Re-enrolment,Re-enrolment,Re-enrolment,Wiederanmeldung,Rematriculación,Re-enrolment,续读,續讀,再入学
+Nofitication-Filter-Registration,New Parent Registration,New Parent Registration,New Parent Registration,Registrierung für neue Eltern,Nuevo registro de padre,New Parent Registration,新家长报名,新家長報名,新規保護者登録
+Nofitication-Filter-Student,Student Status Change,Student Status Change,Student Status Change,Änderung des Schülerstatus,Cambio de estado del estudiante,Student Status Change,学生状态变更,學生狀態變更,生徒ステータス変更
+Nofitication-Filter-Tour,Tour Registration,Tour Registration,Tour Registration,Tour-Anmeldung,Registro en la visita,Tour Registration,预约参观报名,預約參觀報名,ツアー登録
+Notification-Details,Notification Details,Notification Details,Notification Details,Benachrichtigungs details,Detalles de Notificaciones,Notification Details,通知详情,通知詳情,通知の詳細
+OA-OpenOASD-Enter-New-Mark,New,New,New,Neu,Nuevo,New,新,新,新規
+OA-OpenOASD-Enter-Title,Schools Directory,Schools Directory,Schools Directory,Schools Directory,Directorio Escolar,Schools Directory,择校平台,擇校平臺,学校ディレクトリ
+OnBoarding-Applicant,Applicant Checklist,Applicant Checklist,Applicant Checklist,Checkliste für Bewerber,Lista de verificación del solicitante,Applicant Checklist,申请清单,申請列表,申請者チェックリスト
+OnBoarding-Applicant-Description,"Check your incomplete items on the Checklist, each student has its own items and the latest status of the submitted documentation.","Check your incomplete items on the Checklist, each student has its own items and the latest status of the submitted documentation.","Check your incomplete items on the Checklist, each student has its own items and the latest status of the submitted documentation.",Überprüfen Sie die unvollständigen Einträge der Checkliste. Jeder Bewerber hat eigene Einträge und den Status der dazugehörigen Dokumente.,Compruebe sus elementos incompletos en la lista de verificación; cada estudiante tiene sus propios elementos y el último estado de la documentación enviada.,"Check your incomplete items on the Checklist, each student has its own items and the latest status of the submitted documentation.",每个学生都有专属的事项列表，随时检查未完成的事项和提交档案的最新状态。,每个学生都有专属的事项列表，随时检查未完成的事项和提交檔案的最新状态。,チェックリストで未完了の項目を確認してください。各生徒には独自の項目と提出書類の最新ステータスがあります。
+OnBoarding-Back,Back,Back,Back,Zurück,Volver,Back,上一页,上一頁,戻る
+OnBoarding-Events,Upcoming Events,Upcoming Events,Upcoming Events,Bevorstehende Veranstaltungen,Próximos eventos,Upcoming Events,即将到来的事情,即將到來的事件,今後のイベント
+OnBoarding-Events-Description,"Don't forget to remember any important events, the schedule list makes the events clear at a glance.","Don't forget to remember any important events, the schedule list makes the events clear at a glance.","Don't forget to remember any important events, the schedule list makes the events clear at a glance.",Verpassen Sie keine wichtigen Veranstaltungen und Termine. Der Terminplan zeigt alle Termine im Überblick.,No olvide recordar cualquier evento importante; el registro de programación hace que el evento sea claro de un simple vistazo.,"Don't forget to remember any important events, the schedule list makes the events clear at a glance.",别错过任何重要的事件，日程列表让事件一目了然。,別錯過任何重要的事件，行事曆讓它們一目了然。,重要なイベントを忘れずに。スケジュールリストでイベントが一目でわかります。
+OnBoarding-Notifications,Notifications,Notifications,Notifications,Benachrichtigungen,Notificaciones,Notifications,通知,通知,通知
+OnBoarding-Notifications-Description,"Don’t want to miss any messages, notices or updates? We have organized all the up-to-date information in Notifications.","Don’t want to miss any messages, notices or updates? We have organized all the up-to-date information in Notifications.","Don’t want to miss any messages, notices or updates? We have organized all the up-to-date information in Notifications.","Sie wollen keine Nachrichten, Benachrichtigung oder Updates verpassen? Wir have alle aktuellen Information in den Benachrichtungen organisiert.","¿No quiere perder mensajes, notificaciones o actualizaciones? Hemos organizado toda la información de las actualizaciones al día en Notificaciones.","Don’t want to miss any messages, notices or updates? We have organized all the up-to-date information in Notifications.",不想错过任何消息或更新？我们已在通知中汇整了所有最新的资讯。,不想錯過任何消息或更新？我們已在通知中彙整了所有最新的資訊。,"Don’t want to miss any messages, notices or updates? We have organized all the up-to-date information in Notifications."
+OnBoarding-Pay,Pay Online,Pay Online,Pay Online,Online bezahlen,Pagar en línea,Pay Online,在线支付,線上付款,オンライン支払い
+OnBoarding-Pay-Description,"Other than checking the payment history, you can also pay the fees through various methods such as cheque, credit card, etc.","Other than checking the payment history, you can also pay the fees through various methods such as cheque, credit card, etc.","Other than checking the payment history, you can also pay the fees through various methods such as cheque, credit card, etc.","Neben der Einsicht in den Zahlungsverlauf, können Sie auch andere Bezahlungsarten wie z.B. Cheque, Kreditkarte, usw. verwenden.","Además de comprobar el historial de pagos, también puede pagar las tasas a través de varias formas, por ejemplo, cheque, tarjeta de crédito, etc.","Other than checking the payment history, you can also pay the fees through various methods such as cheque, credit card, etc.",除了查看付款记录外，您还可以通过支票、信用卡等多种方式支付费用。,除了查看付款紀錄，您還可以通過支票、信用卡等多種方式完成付款。,支払い履歴の確認に加えて、小切手、クレジットカードなど様々な方法で料金を支払うことができます。
+OnBoarding-Skip,Skip,Skip,Skip,Überspringen,Saltar,Skip,跳过,略過,スキップ
+OnBoarding-Title,What's New,What's New,What's New,Was ist neu,Qué es nuevo,What's New,功能介绍,功能介紹,新機能
+Parent-Edit-Binary,Non-Binary,Non-Binary,Non-Binary,Nichtbinär,No binario,Non-Binary,其他,其他,ノンバイナリー
+Parent-Edit-ChangePassword,Change Password,Change Password,Change Password,Passwort ändern,Cambiar contraseña,Change Password,修改密码,修改密碼,パスワードを変更
+Parent-Edit-Detail,Contact Details,Contact Details,Contact Details,Kontaktinformationen,Detalles de contacto,Contact Details,联系方式,聯絡方式,連絡先詳細
+Parent-Edit-Female,Female,Female,Female,Weiblich,Mujer,Female,女,女,女性
+Parent-Edit-FirstName,First Name,First Name,First Name,Vorname,Nombre,First Name,姓,姓,名
+Parent-Edit-HomePhone,Home Telephone,Home Telephone,Home Telephone,Festnetznummer,Teléfono del domicilio,Home Telephone,家庭电话,家用電話,自宅電話
+Parent-Edit-Info,Personal Information,Personal Information,Personal Information,Persönliche Informationen,Información personal,Personal Information,个人信息,個人資訊,個人情報
+Parent-Edit-LastName,Last Name,Last Name,Last Name,Nachname,Apellidos,Last Name,名,名,姓
+Parent-Edit-Male,Male,Male,Male,Männlich,Varón,Male,男,男,男性
+Parent-Edit-Mobile,Mobile Phone,Mobile Phone,Mobile Phone,Mobiltelefon,Teléfono móvil,Mobile Phone,移动电话,手機,携帯電話
+Parent-Edit-Title,Profile Edit,Profile Edit,Profile Edit,Profil bearbeiten,Editar perfil,Profile Edit,修改个人资料,修改個人資料,プロフィール編集
+Parent-Email-Verify,Please verify your email address!,Please verify your email address!,Please verify your email address!,Bitte verifizieren Sie Ihre E-Mail-Adresse!,¡Verifique su dirección de correo electrónico!,Please verify your email address!,请验证您的邮箱!,請驗證您的電子郵件地址！,メールアドレスを確認してください！
+Parent-Email-VerifyDis,An email has been sent to you with a link to confirm your email address.,An email has been sent to you with a link to confirm your email address.,An email has been sent to you with a link to confirm your email address.,Sie haben eine E-Mail mit einem Link zur Bestätigung Ihrer E-Mail-Adresse erhalten.,Le hemos enviado un correo electrónico con un enlace para confirmar su dirección de correo.,An email has been sent to you with a link to confirm your email address.,已向您发送了一封电子邮件，其中包含一个确认您的电子邮件地址的链接。,已向您傳送了一封電子郵件，信中包含一個驗證您電子郵件地址的連結。,メールアドレス確認用のリンクを含むメールが送信されました。
+Parent-NewEmail-Verify,Verify New Email Address,Verify New Email Address,Verify New Email Address,Neue E-Mail Adresse verifizieren,Verificar la nueva dirección de correo electrónico,Verify New Email Address,请验证您的新邮箱,請驗證您的新電子郵件地址,新しいメールアドレスを確認
+Parent-Profile-Address,Address,Address,Address,Adresse,Dirección,Address,地址,地址,住所
+Parent-Profile-BirthDay,Date of Birth,Date of Birth,Date of Birth,Geburtsdatum,Fecha de nacimiento,Date of Birth,生日,生日,生年月日
+Parent-Profile-City,City,City,City,Stadt,Ciudad,City,城市,城市,都市
+Parent-Profile-Country,Country/Region,Country/Region,Country/Region,Land/Region,País/región,Country/Region,国家/地区,國家/地區,国/地域
+Parent-Profile-Email,Email,Email,Email,E-Mail,Correo electrónico,Email,邮箱,電子郵件,メール
+Parent-Profile-Gender,Gender,Gender,Gender,Geschlecht,Sexo,Gender,性别,性別,性別
+Parent-Profile-Nationality,Nationality,Nationality,Nationality,Nationalität,Nacionalidad,Nationality,国籍,國籍,国籍
+Parent-Profile-Phone,Contact Number,Contact Number,Contact Number,Kontaktnummer,Número de contacto,Contact Number,联系电话,聯絡電話,連絡先番号
+Parent-Profile-Postal,Postal Code,Postal Code,Postal Code,Postleitzahl,Código Postal,Postal Code,邮编,郵遞區號,郵便番号
+Parent-Profile-Role,Parent,Parent,Parent,Eltern,Padre/madre,Parent,家长,家長,保護者
+Parent-Profile-State,State,State,State,Staat,Estado,State,州(省),州（省）,州
+Parent-Profile-Title,Profile,Profile,Profile,Profil,Perfil,Profile,个人资料,個人資料,プロフィール
+Password-Change-Title,Change Password,Change Password,Change Password,Passwort ändern,Cambiar contraseña,Change Password,修改密码,修改密碼,パスワードを変更
+Password-Confirm-Title,Confirm Password,Confirm Password,Confirm Password,Passwort bestätigen,Confirmar contraseña,Confirm Password,确认密码,確認密碼,パスワードを確認
+Password-Current-Title,Current Password,Current Password,Current Password,Aktuelles Passwort,Contraseña actual,Current Password,当前密码,目前密碼,現在のパスワード
+Password-New-Title,New Password,New Password,New Password,Neues Passwort,Nueva contraseña,New Password,新密码,新密碼,新しいパスワード
+Password-Status-Blank,This field is required and cannot be left blank.,This field is required and cannot be left blank.,This field is required and cannot be left blank.,Dieses Feld ist erforderlich und darf nicht leer bleiben.,Este campo es necesario y no puede dejarse en blanco.,This field is required and cannot be left blank.,该字段不能为空,該欄位不能為空,このフィールドは必須で、空白にすることはできません。
+Password-Status-MinLength,Password does not match (minimum 6 alphanumeric characters).,Password does not match (minimum 6 alphanumeric characters).,Password does not match (minimum 6 alphanumeric characters).,Passwort stimmt nicht überein (mind. 6 alphanumerische Zeichen),La contraseña no coincide (mínimo 6 caracteres alfanuméricos),Password does not match (minimum 6 alphanumeric characters).,密码不匹配(至少六个字母或数字),密碼不相符（至少六個英文字母或數字）,パスワードが一致しません（最低6文字の英数字）。
+Password-Status-NotMatch,Password does not match,Password does not match,Password does not match,Passwort stimmt nicht überein,La contraseña no coincide,Password does not match,密码不一致,密碼不一致,パスワードが一致しません
+Phone-Already-Exist,This mobile account already exists.,This mobile account already exists.,This mobile account already exists.,Dieses mobile Benutzerkonto gibt es schon.,Esta cuenta móvil ya existe.,This mobile account already exists.,手机号已存在,手機號碼已經存在,この携帯電話アカウントは既に存在します。
+Phone-Change-Title,Change Mobile Phone,Change Mobile Phone,Change Mobile Phone,Mobiltelefon ändern,Cambiar teléfono móvil,Change Mobile Phone,修改手机号,修改手機號碼,携帯電話を変更
+Phone-Confirm-Code,Confirm your Code,Confirm your Code,Confirm your Code,Bestätigen Sie Ihren Code,Confirmar su código,Confirm your Code,输入验证码,輸入驗證碼,コードを確認
+Phone-Country-Code,Country Code,Country Code,Country Code,Landesvorwahl,Código del país,Country Code,国家/地区,國家/地區,国コード
+Phone-Not-Verify,Current Mobile Phone doesn't verify.,Current Mobile Phone doesn't verify.,Current Mobile Phone doesn't verify.,Das aktuelle Mobiltelefon ist nicht verifiziert.,El actual teléfono móvil no está verificado.,Current Mobile Phone doesn't verify.,当前手机号未验证,目前手機號碼尚未驗證,現在の携帯電話は確認されていません。
+Phone-Number,Your phone number,Your phone number,Your phone number,Ihre Rufnummer,Su número de teléfono,Your phone number,您的手机号,您的手機號碼,電話番号
+Phone-ReSend-Code,Resend,Resend,Resend,Erneut senden,Reenviar,Resend,重发,重發,再送信
+Phone-Send-Code,Send Code,Send Code,Send Code,Code senden,Enviar código,Send Code,发送验证码,發送驗證碼,コードを送信
+Phone-SendCode-Error,SMS code send failed,SMS code send failed,SMS code send failed,Versand des SMS-Codes fehlgeschlagen,El código SMS enviado ha fallado,SMS code send failed,验证码发送失败,驗證碼發送失敗,SMSコード送信失敗
+Phone-SendCode-Success,SMS code has been sent,SMS code has been sent,SMS code has been sent,SMS-Code wurde gesendet,El código SMS ha sido enviado,SMS code has been sent,验证码已经发送,驗證碼已經發送,SMSコードが送信されました
+Phone-Verify-Message,"After verifying the mobile phone, you can log in through the mobile phone number later.","After verifying the mobile phone, you can log in through the mobile phone number later.","After verifying the mobile phone, you can log in through the mobile phone number later.",Nach der Verifizierung des Mobiltelefons können Sie sich später über die Mobiltelefonnummer anmelden.,"Después de verificar el teléfono móvil, puede iniciar sesión a través del número de teléfono móvil.","After verifying the mobile phone, you can log in through the mobile phone number later.",当您验证过手机号，后续可以使用手机号进行登录。,當您完成手機號碼驗證，未來即可使用手機號碼進行登入,携帯電話を確認すると、後で携帯電話番号でログインできます。
+Phone-Verify-Title,Verify Mobile Phone,Verify Mobile Phone,Verify Mobile Phone,Mobiltelefon verifizieren,Verificar teléfono móvil,Verify Mobile Phone,验证手机号,驗證手機號碼,携帯電話を確認
+Profile-Avatar-Updated,The photo has been successfully uploaded.,The photo has been successfully uploaded.,The photo has been successfully uploaded.,Das Foto wurde erfolgreich hochgeladen.,La foto se ha subido correctamente.,The photo has been successfully uploaded.,照片已成功上传。,照片已成功上傳。,写真が正常にアップロードされました。
+Profile-Select-Country,Select an option,Select an option,Select an option,Eine Option wählen,Seleccionar una opción,Select an option,选择一个选项,選擇一個選項,オプションを選択
+Profile-Toast-MobileError,has invalid phone format,has invalid phone format,has invalid phone format,hat ein ungültiges Telefonformat,El formato de teléfono no es válido,has invalid phone format,电话格式无效,無效的電話號碼格式,電話番号の形式が無効です
+QR-Login-Cancel,Cancel Login,Cancel Login,Cancel Login,Anmeldung abbrechen,Cancelar inicio de sesión,Cancel Login,取消登录,取消登入,ログインをキャンセル
+QR-Login-Confirm,Confirm Login,Confirm Login,Confirm Login,Anmeldung bestätigen,Confirmar inicio de sesión,Confirm Login,确认登录,確認登入,ログインを確認
+QR-Login-Confirm-Description,"To ensure account security, please confirm that it's you performing this action.","To ensure account security, please confirm that it's you performing this action.","To ensure account security, please confirm that it's you performing this action.","Zur Sicherung Ihres Kontos bestätigen Sie bitte, dass Sie diese Aktion durchführen.","Para garantizar la seguridad de la cuenta, por favor confirme que es usted quien realiza esta acción.","To ensure account security, please confirm that it's you performing this action.",为确保账号安全，请确认是您本人操作。,為確保帳號安全，請確認是您本人操作。,アカウントのセキュリティを確保するため、この操作を実行しているのがあなたであることを確認してください。
+QR-Login-Confirm-Title,Confirm the OpenApply account login on your browser,Confirm the OpenApply account login on your browser,Confirm the OpenApply account login on your browser,Bestätigen Sie die Anmeldung Ihres OpenApply-Kontos in Ihrem Browser.,Confirme el inicio de sesión de su cuenta de OpenApply en su navegador.,Confirm the OpenApply account login on your browser,OpenApply账号网页端登录确认,OpenApply帳號網頁端登入確認,ブラウザでOpenApplyアカウントのログインを確認してください
+QR-Login-Rescan,Rescan,Rescan,Rescan,Erneut scannen,Volver a escanear,Rescan,重新扫描,重新掃描,再スキャン
+QR-Login-Success,Login successful,Login successful,Login successful,Anmeldung erfolgreich,Inicio de sesión exitoso,Login successful,登录成功,登入成功,ログイン成功
+QR-Login-Title,Login ,Login ,Login ,Anmelden,Inicio de sesión,Login ,登录,登入,ログイン
+Remind-No-Checklist,No Checklist,No Checklist,No Checklist,Keine Checkliste,Sin lista de comprobación,No Checklist,没有清单提示,沒有清單提示,チェックリストなし
+Remind-No-Checklist-Tips,Congrats! You have completed your checklist items for now.,Congrats! You have completed your checklist items for now.,Congrats! You have completed your checklist items for now.,Herzlichen Glückwunsch! Sie haben zur Zeit alle Einträge in der Liste erfüllt.,¡Felicidades! Ha completado sus elementos de la lista de comprobación por el momento.,Congrats! You have completed your checklist items for now.,尚未添加清单项目,尚未添加清單項目,おめでとうございます！チェックリスト項目をすべて完了しました。
+Remind-No-Data,No Data,No Data,No Data,Keine Daten,Sin datos,No Data,无数据,無數據,データなし
+Remind-No-Data-Tips,This is no data,This is no data,This is no data,Keine Daten vorhanden,No hay datos,This is no data,没有数据,沒有數據,データがありません
+Remind-No-Message,No Messages,No Messages,No Messages,Keine Nachrichten,Sin mensajes,No Messages,没有消息,沒有消息,メッセージなし
+Remind-No-Message-Tips,Send a message to the admissions team.,Send a message to the admissions team.,Send a message to the admissions team.,Eine Nachricht an das Anmeldungsteam senden.,Envíe un mensaje al equipo de admisión.,Send a message to the admissions team.,没有学生，你可以添加学生。,沒有學生，你可以添加學生,入学チームにメッセージを送信してください。
+Remind-No-Notifications,No Notifications,No Notifications,No Notifications,Keine Benachrichtigungen,Sin notificaciones,No Notifications,没有通知,沒有通知,通知なし
+Remind-No-Notifications-Tips,Notifications from the school will appear here.,Notifications from the school will appear here.,Notifications from the school will appear here.,Benachrichtigungen von der Schule werden hier angezeigt.,Las notificaciones de la escuela aparecerán aquí.,Notifications from the school will appear here.,没有通知信息,沒有通知信息,学校からの通知がここに表示されます。
+Remind-No-Uploaded-Files,No Uploaded Files,No Uploaded Files,No Uploaded Files,Keine hochgeladenen Dateien,Sin archivos subidos,No Uploaded Files,没有上传文件,沒有上傳文件,アップロードされたファイルなし
+Remind-No-Uploaded-Files-Tips,Your files will appear here.,Your files will appear here.,Your files will appear here.,Ihre Dateien werden hier angezeigt.,Sus archivos aparecerán aquí.,Your files will appear here.,还没有上传文件,還沒有上傳文件,ファイルがここに表示されます。
+Reset-Password-Message,Please check your email to reset your password,Please check your email to reset your password,Please check your email to reset your password,"Bitte überprüfen Sie Ihre E-Mail, um Ihr Passwort zurückzusetzen","Por favor, compruebe su correo electrónico para restablecer su contraseña.",Please check your email to reset your password,请检查您的电子邮件以重置密码,請檢查您的電子郵件以重置密碼,パスワードをリセットするにはメールを確認してください
+School-Contact-Email,Email,Email,Email,E-Mail,Correo electrónico,Email,邮箱,電子郵件,メール
+School-Contact-Phone,Phone,Phone,Phone,Telefon,Teléfono,Phone,电话,電話,電話
+School-Contact-Role,Role,Role,Role,Rolle,Funciones,Role,职位,職位,役割
+School-Detail-Campus,Campus Locations,Campus Locations,Campus Locations,Campus-Standorte,Ubicaciones de campus,Campus Locations,校园位置,校園位置,キャンパスの場所
+School-Detail-Contact,Admissions Contacts,Admissions Contacts,Admissions Contacts,Zulassungsteam Kontakte,Contactos de admisiones,Admissions Contacts,招生联系人,招生聯絡人,入学担当者
+School-Details,Details,Details,Details,Details,Detalles,Details,更多信息,更多資訊,詳細
+School-OverView,Overview,Overview,Overview,Übersicht,Resumen,Overview,总览,總覽,概要
+School-Title,School Information,School Information,School Information,Schulinformation,Información de la escuela,School Information,学校信息,學校資訊,学校情報
+Select-School,Select School,Select School,Select School,Schule wählen,Seleccionar escuela,Select School,选择学校,選擇學校,学校を選択
+Sign-Enter-Password,Enter Password,Enter Password,Enter Password,Passwort eingeben,Introducir contraseña,Enter Password,输入密码,輸入密碼,パスワードを入力
+Sign-Forgot-Password,Forgot Password,Forgot Password,Forgot Password,Passwort vergessen,Olvidé mi contraseña,Forgot Password,忘记密码,忘記密碼,パスワードを忘れた
+Sign-In-Description,Streamline the admissions journey,Streamline the admissions journey,Streamline the admissions journey,Streamline die Einlassgefahr,Racionalice el proceso de admisión,Streamline the admissions journey,简化入学流程,簡化入學流程,入学手続きを効率化
+Sign-In-Next,Next,Next,Next,Weiter,Siguiente,Next,下一步,下一步,次へ
+Sign-In-Title,Sign In,Sign In,Sign In,Anmelden,Iniciar sesión,Sign In,登录,登入,サインイン
+Sign-In-Welcome,Welcome to OpenApply,Welcome to OpenApply,Welcome to OpenApply,Willkommen bei OpenApply,Bienvenido a OpenApply,Welcome to OpenApply,欢迎使用OpenApply,歡迎使用 OpenApply,OpenApplyへようこそ
+Sign-Password-Reset,Password Reset,Password Reset,Password Reset,Passwort zurücksetzen,Contraseña restablecida,Password Reset,密码重设,密碼重設,パスワードリセット
+Sign-Password-ResetDescription,"Check your email address below, then click Reset Password and we will send you instructions on how to change your password.","Check your email address below, then click Reset Password and we will send you instructions on how to change your password.","Check your email address below, then click Reset Password and we will send you instructions on how to change your password.",Überprüfen Sie die untenstehende E-mail Adresse. Klicken sie Passwort zurücksetzen und wir senden Ihnen Anweisungen wie Sie Ihr Passwort ändern können.,"Compruebe su dirección de correo electrónico abajo, después haga clic en reiniciar contraseña y le enviaremos instrucciones de cómo cambiar su contraseña.","Check your email address below, then click Reset Password and we will send you instructions on how to change your password.",检查下面的电子邮件地址，然后单击重置密码，我们将向您发送如何更改密码的说明邮件。,請檢查下方的電子郵件地址，然後點擊重設密碼，我們將向您發送變更密碼的說明郵件。,下記のメールアドレスを確認し、パスワードリセットをクリックしてください。パスワード変更方法をメールでお送りします。
+Sign-Remember-Me,Remember Me,Remember Me,Remember Me,Anmeldedaten speichern,Recordar,Remember Me,记住我,記住我,ログイン状態を保持
+Sign-Reset-Password,Reset Password,Reset Password,Reset Password,Passwort zurücksetzen,Restablecer contraseña,Reset Password,重设密码,重設密碼,パスワードをリセット
+SignIn-with-Google,Sign In with Google,Sign In with Google,Sign In with Google,Mit Google anmelden,Iniciar sesión con Google,Sign In with Google,Google,使用 Google 登入,Googleでサインイン
+SignIn-with-WeChat,Sign In with WeChat,Sign In with WeChat,Sign In with WeChat,Mit WeChat anmelden,Iniciar sesión con WeChat,Sign In with WeChat,微信登录,微信登录,WeChatでサインイン
+Student-Add-Applicant,Add New Applicant,Add New Applicant,Add New Applicant,Neuen Bewerber hinzufügen,Añadir un solicitante nuevo,Add New Applicant,添加新申请人,添加新申請人,新しい申請者を追加
+Student-Applicant-Progress,Applicant Progress,Applicant Progress,Applicant Progress,Fortschritt des Bewerbers,Progreso de solicitante,Applicant Progress,申请人进度,申請人進度,申請者の進捗
+Student-ReApply-Title,Reapply,Reapply,Reapply,Erneut bewerben,Reaplicar,Reapply,重新申请,重新申請,再申請
+Student-Status-Admitted,Admitted,Admitted,Admitted,Zugelassen,Admitido,Admitted,录取,錄取,合格
+Student-Status-Applied,Applied,Applied,Applied,Beworben,Aplicado,Applied,已申请,已申請,申請済み
+Student-Status-Declined,Declined,Declined,Declined,Abgelehnt,Rechazado,Declined,拒绝,拒絕,辞退
+Student-Status-Enrolled,Enrolled,Enrolled,Enrolled,Angemeldet,Matriculado,Enrolled,注册,註冊,在籍
+Student-Status-Graduated,Graduated,Graduated,Graduated,Absolviert,Graduado,Graduated,毕业,畢業,卒業
+Student-Status-Items,items,items,items,Elemente,Elementos,items,项,項,項目
+Student-Status-Pending,Pending,Pending,Pending,Ausstehend,Pendiente,Pending,待申请,待申請,保留中
+Student-Status-Wait-listed,Wait-listed,Wait-listed,Wait-listed,Auf der Warteliste,En lista de espera,Wait-listed,候补,候補,待機リスト
+Student-Status-Withdrawn,Withdrawn,Withdrawn,Withdrawn,Zurückgezogen,Retirado,Withdrawn,退学,退學,退学
+Toast-Operation-Failed,Operation failed,Operation failed,Operation failed,Vorgang fehlgeschlagen,La operación ha fallado,Operation failed,操作失败,操作失敗,操作が失敗しました
+Toast-Operation-Success,Operation successful,Operation successful,Operation successful,Vorgang erfolgreich,Operación realizada con éxito,Operation successful,操作成功,操作成功,操作が成功しました
+Toast-Required-Address,Address is required.,Address is required.,Address is required.,Adresse ist erforderlich.,Es necesaria la dirección.,Address is required.,请输入地址。,請輸入地址。,住所が必要です。
+Toast-Required-Email,Email is required.,Email is required.,Email is required.,E-Mail ist erforderlich.,Es necesario el correo electrónico.,Email is required.,请输入邮箱。,請輸入電子郵件。,メールが必要です。
+Toast-Required-FirstName,First Name is required.,First Name is required.,First Name is required.,Vorname ist ein Pflichtfeld.,Es necesario el nombre.,First Name is required.,请输入姓名。,請輸入姓名。,名が必要です。
+Toast-Required-LastName,Last Name is required.,Last Name is required.,Last Name is required.,Nachname ist ein Pflichtfeld.,Es necesario el apellido,Last Name is required.,请输入姓名。,請輸入姓名。,姓が必要です。
+Toast-Required-Phone,Mobile Phone is required.,Mobile Phone is required.,Mobile Phone is required.,Mobiltelefon ist erforderlich.,Es necesario el teléfono móvil.,Mobile Phone is required.,请输入手机号。,請輸入手機號碼。,携帯電話が必要です。
+Toast-Submit-Cancel,Operation canceled,Operation canceled,Operation canceled,Vorgang abgebrochen,Operación cancelada,Operation canceled,操作取消,操作取消,操作がキャンセルされました
+Toast-Submit-Success,Document sent,Document sent,Document sent,Dokument gesendet,Documento Enviado,Document sent,提交成功,提交成功,ドキュメントを送信しました
+Toast-Token-invalid,You have signed in another device.,You have signed in another device.,You have signed in another device.,Sie haben sich an einem anderen Gerät angemeldet.,Ha iniciado sesión en otro dispositivo.,You have signed in another device.,登录信息失效,登錄信息失效,別のデバイスでサインインしました。
+Upload-Queue-Limit,Please wait for the upload to complete.,Please wait for the upload to complete.,Please wait for the upload to complete.,Bitte warten Sie bis der Hochladevorgang abgeschlossen ist,Espere que se complete la carga.,Please wait for the upload to complete.,请等待上传完成后，再上传。,請等待上傳完成後，再上傳,アップロードが完了するまでお待ちください。
+WeChat-Alter-Confirmation-title,Confirmation,Confirmation,Confirmation,Bestätigung,Confirmación,Confirmation,确认,確認,確認
+WeChat-Alter-Unlink-Dec,,,,Möchtest du dein WeChat-Konto trennen?,¿Quieres desvincular la cuenta de WeChat?,,想解除绑定微信账号？,想解除綁定微信帳號？,
+WeChat-Button-Cancel-Unlink,Cancel,Cancel,Cancel,Abbrechen,Cancelar,Cancel,取消,取消,キャンセル
+WeChat-Button-OK,OK,OK,OK,,,OK,,,OK
+WeChat-Link-Title,WeChat,WeChat,WeChat,WeChat,WeChat,WeChat,微信,微信,WeChat
+WeChat-Linked-With,Linked with,Linked with,Linked with,Verknüpft mit ,Enlazado con ,Linked with,已绑定  ,已绑定 ,リンク済み
+WeChat-Unlink-Confirm-Button,Unlink,Unlink,Unlink,Trennen,Desvincular,Unlink,解绑,解綁,リンク解除
+WeChat-Unlink-Done,Unlink,Unlink,Unlink,Trennen,Desvincular,Unlink,解绑,解綁,リンク解除
+WeChat-Unlink-Failure,Unlink failed. Please try again.,Unlink failed. Please try again.,Unlink failed. Please try again.,Trennung fehlgeschlagen. Bitte versuche es erneut.,"Error al desvincular. Por favor, inténtelo de nuevo.",Unlink failed. Please try again.,解绑失败，请重试,解綁失敗，請重試,リンク解除に失敗しました。もう一度お試しください。
+WeChat-Unlink-Success,Your account has successfully unlinked with WeChat.,Your account has successfully unlinked with WeChat.,Your account has successfully unlinked with WeChat.,Dein Konto wurde erfolgreich von WeChat getrennt.,u cuenta se ha desvinculado correctamente de WeChat.,Your account has successfully unlinked with WeChat.,您的账号已成功取消与微信的关联。,您的帳號已成功取消與微信的關聯。,アカウントがWeChatとのリンクを解除しました。
+WeChat-Unlink-Title,WeChat,WeChat,WeChat,WeChat,WeChat,WeChat,微信,微信,WeChat
+WeChat-authorization-failed,WeChat login authorization failed,WeChat login authorization failed,WeChat login authorization failed,WeChat-Anmeldeautorisierung fehlgeschlagen,Fallo en la autorización de inicio de sesión de WeChat,WeChat login authorization failed,微信授权失败,微信授權失敗,WeChat ログイン認証に失敗しました
+WeChat-login-no-schools,We couldn't find the school associated with your WeChat account. Please log in using your email or phone number.,We couldn't find the school associated with your WeChat account. Please log in using your email or phone number.,We couldn't find the school associated with your WeChat account. Please log in using your email or phone number.,Wir konnten die mit Ihrem WeChat-Konto verknüpfte Schule nicht finden. Bitte melden Sie sich mit Ihrer E-Mail-Adresse oder Telefonnummer an.,"No hemos encontrado la escuela asociada a tu cuenta de WeChat. Por favor, inicia sesión utilizando tu correo electrónico o número de teléfono.",We couldn't find the school associated with your WeChat account. Please log in using your email or phone number.,暂无未查到您微信绑定的学校，请通过邮箱，或手机号登录。,暫未查到你微信已綁定的學校，請通過郵箱或手機號登錄。,WeChatアカウントに関連する学校が見つかりませんでした。メールまたは電話番号を使用してログインしてください。
+WeChat-token-failed,WeChat user token retrieval failed,WeChat user token retrieval failed,WeChat user token retrieval failed,WeChat-Benutzertoken-Abruf fehlgeschlagen,Fallo en la obtención del token de usuario de WeChat,WeChat user token retrieval failed,微信token获取失败,微信令牌獲取失敗,WeChatユーザートークンの取得に失敗しました
+WebLink-URL-Invalid,"Sorry, this link is empty or invalid.","Sorry, this link is empty or invalid.","Sorry, this link is empty or invalid.","Entschuldigung, aber dieser Link ist leer oder ungültig.","Este enlace está vacío o es inválido, disculpe las molestias.","Sorry, this link is empty or invalid.",抱歉，此链接为空或无效，无法打开。,抱歉，使連結為空或無效，無法開啟,申し訳ありませんが、このリンクは空または無効です。
+Wechat-Button-Cancel,Maybe Later,Maybe Later,Maybe Later,Vielleicht später,Quizás Más Tarde,Maybe Later,以后再说,以後再說,後で
+Wechat-Button-Link,Link Now,Link Now,Link Now,Jetzt verlinken,Correlacionar ahora,Link Now,立刻绑定,立刻綁定,今すぐリンク
+Wechat-Reminder-Description,Link your WeChat account to easily login in the future.,Link your WeChat account to easily login in the future.,Link your WeChat account to easily login in the future.,"Verlinke dein WeChat-Konto, um dich in Zukunft einfacher anzumelden.",Vincula tu cuenta de WeChat para iniciar sesión fácilmente en el futuro.,Link your WeChat account to easily login in the future.,绑定您的微信账号，以便将来更轻松登录。,綁定您的微信帳號，以便將來更輕鬆登入。,WeChatアカウントをリンクして、今後簡単にログインできるようにします。
+Wechat-Reminder-Title,Easy Login,Easy Login,Easy Login,Direktanmeldung,Inicio fácil,Easy Login,快捷登录,快速登入,簡単ログイン
+Wed-Toast-LoadingFail,loading failed,loading failed,loading failed,Laden fehlgeschlagen,La carga ha fallado,loading failed,加载失败,載入失敗,読み込みに失敗しました
+Wed-Toast-LoadingFileCanOpen,"File format not supported, open with Safari?","File format not supported, open with Safari?","File format not supported, open with Safari?",Dateiformat ist nicht unterstützt. In Safari öffnen?,"Formato de archivo no admitido, ¿abrir con Safari?","File format not supported, open with Safari?",不支持该文件格式，是否用 Safari 打开?,不支援該檔案格式，是否用 Safari 開啟？,ファイル形式はサポートされていません。Safariで開きますか？
+refresh_idle,Pull down to refresh,Pull down to refresh,Pull down to refresh,Zum Aktualisieren nach unten ziehen,Bajar para actualizar,Pull down to refresh,下拉刷新,下拉更新,下に引いて更新
+refresh_pulling,Release to refresh,Release to refresh,Release to refresh,Zum Aktualisieren loslassen,Liberar para actualizar,Release to refresh,释放刷新,釋放更新,離して更新
+refresh_refreshing,Loading...,Loading...,Loading...,Laden ...,Cargando...,Loading...,正在努力加载,正在努力載入中,読み込み中...
+refresh_willRefresh,Release to refresh,Release to refresh,Release to refresh,Zum Aktualisieren loslassen,Liberar para actualizar,Release to refresh,释放刷新,釋放更新,離して更新
+tabbar_DashBoard,Home,Home,Home,Startseite,Inicio,Home,首页,首頁,ホーム
+tabbar_Messages,Inbox,Inbox,Inbox,Posteingang,Buzón de entrada,Inbox,消息,消息,受信箱
+tabbar_Settings,Me,Me,Me,Ich,Yo,Me,我,我,マイページ
