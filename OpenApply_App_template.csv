@@ -1,0 +1,395 @@
+id,source
+Account-AboutApp,About OpenApply
+Account-Application,Application
+Account-Discover,Discover
+Account-Language,Language
+Account-Lock-Description,Auto-lock the app after 2 minutes and unlock it with TouchID, FaceID or passcode.
+Account-Lock-Title,Auto-Lock
+Account-LogOut,Log Out
+Account-Push-DisAbleDescription,Push notifications have been disabled for all devices.
+Account-Push-Disable,Disable Device Push Notifications
+Account-Push-Enable,Enable Device Push Notifications
+Account-Push-Help,Help & Support
+Account-RateApp,Rate the OpenApply App
+Account-Request,Submit Support Request
+Account-System,System
+Account-Title,Account
+Account-Version,Version
+App_Update_Use,recently used
+App_Version_Already-New,OpenApply is up to date
+App_Version_Cancel_Update,Not Now
+App_Version_Go_Update,Update
+App_Version_Go_Update_Available,An update to OpenApply is available. Would you like to update?
+App_Version_Go_Update_Required,An update to OpenApply is required to continue.
+App_Version_Updated_Available,Update Available
+App_Version_Updated_Required,Update Required
+Applicant-Checklist-Hide,Hide Completed
+Applicant-Checklist-Nohide-Remind,No pending items
+Applicant-Checklist-ResendEmail,Resend via E-mail
+Applicant-Checklist-Show,Show Completed
+Applicant-Checklist-UploadFile,Upload Files
+Applicant-Family-Information,Family Information
+Applicant-Files,Files
+Applicant-Profile,Profile
+Applicant-Title,Applicant Profile
+Application-Button-ExportPDF,Export PDF
+Application-Button-ReViewForm,Review Form
+Application-Button-ResendEmail,Resend Email
+Application-Button-UploadFile,Upload File
+Apply-Status-Exist,Apply with an existing child
+Apply-Status-New,Apply with new child
+Auth-Camara-Message,OpenApply needs your permission to access the camera
+Auth-Camara-Title,OpenApply needs access to your camera
+Auth-Go-Cancel,Not allowed
+Auth-Go-Open,Go to settings to enable
+Auth-Photo-Message,OpenApply needs your permission to access the gallery
+Auth-Photo-Title,OpenApply needs access to your gallery
+Calender-Auth-Description,Allow access to your calendar to add event reminders.
+Calender-Auth-Title,Allow 'OpenApply' to access your calendar？
+Camera-Not-Auth,Camera permissions are not enabled.
+Camera-NotAuth-Description,Please go to [Settings-Privacy-camera] to enable the camera permission.
+CheckList-Item-Action-Done,Make as Completed
+CheckList-Item-Action-Due,Due
+Common-About,About
+Common-And,and
+Common-Attach-Camera,Take a Photo
+Common-Attach-File,Attach File
+Common-Attach-Image,Insert from Photo Gallery
+Common-Attach-Video,Choose Video
+Common-Cancel,Cancel
+Common-Date,Date
+Common-Done,Done
+Common-Filter,Filter
+Common-Log-Out,Are you sure you want to log out?
+Common-Reset,Reset
+Common-Search,Search
+Common-Security,Security & Legal Notice
+Common-Select,Select
+Common-Select-Date,Please select a date
+Common-Sure,OK
+Common-Type,Type
+Day-AM,AM
+Day-At,at
+Day-Friday,Friday
+Day-Monday,Monday
+Day-PM,PM
+Day-Saturday,Saturday
+Day-Sunday,Sunday
+Day-Thursday,Thursday
+Day-Today,Today
+Day-Today-At,Today at
+Day-Tuesday,Tuesday
+Day-Wednesday,Wednesday
+Day-Yesterday,Yesterday
+Day-Yesterday-At,Yesterday at
+Email-Cant-Null,Email and/or Region is invalid
+EndPoint-Choose-Description,Choose Region
+Event-Calender-Remind, Remind Me
+Event-Cancel-Keep,Keep Event
+Event-Cancel-Message,Are you sure you want to cancel this event? This action cannot be undone.
+Event-Cancel-Success,Cancel Successful!
+Event-Cancel-Title,Cancel Event
+Event-Check-Message,Congratulations! Your check-in has been confirmed.
+Event-Check-Title,Check In Successful!
+Event-Detail-Cancel,Cancel this Event
+Event-ErrorMessage-AlignCode,Please scan the Check In QR Code
+Event-ErrorMessage-NoEvent,No available event. Please make sure you scan the correct event QR code.
+Event-Invalid-Code,OpenApply can not identify the QR Code.
+Event-Join-Avtive,Join
+Event-List-Reminder,Please select the activity you want to check in from the list below and click Continue.
+Event-Scan-QRCode,Scan QR code.
+Events-Detail,Event Details
+Events-Detail-Author,Host
+Events-Detail-Children,Children
+Events-Detail-Description,Details
+Events-Detail-Location,Location
+Events-No-Event,No Upcoming Events
+Events-No-EventDes,Schedule an event to see the school
+Events-Title,Upcoming Events
+Events-Type-Interview,Interview
+Events-Type-OpenDay,OpenDay
+Events-Type-Tour,Tour
+File-Toast-FileSize,Attachment file size limit: 500M
+File-Toast-ImageSize,The size of the picture must be less than 50M.
+File-Toast-Invalid,Invalid file
+File-Toast-Permission,File permission acquisition failed.
+File-Upload-By,by
+File-Upload-Error,Upload Failed. Please make sure your network is working.
+File-Upload-Net-Error,Network exception
+Files-Delete,Delete File
+Files-Delete-Description,Are you sure to delete the file?
+Files-Filter-Checklist,Checklist
+Files-Filter-Email,Email
+Files-Filter-Form,Form
+Files-Filter-Message,Message
+Files-Filter-Profile,Profile
+Files-Type-CantRead,File format is not supported.
+Files-upload-Success,The file has been successfully uploaded.
+Forgot-Password-Alter-Done,Done
+Forgot-Password-Alter-Message,Password reset instructions have been sent to the specified email.
+Forgot-Password-Alter-OpenMail,Open Mail
+Forgot-Password-Alter-Title,Password Reset
+Google-Alter-Unlink-Dec,Want to unlink your Google account?
+Google-Link-Title,Google
+Google-Login-No-Schools,We couldn't find the school associated with your Google account. Please log in using your email or phone number.
+Google-Unlink-Success,Your account has successfully been unlinked with Google.
+Home-Enrollment-Description,Please give your enrolment decision for %@ .
+Home-Event-CheckIn,  Check In
+Home-Event-CheckedIn,Attended
+Home-Event-Description,You have %li event(s) to check in.
+Home-Event-Select,Select Event
+Home-Event-Title,Check In
+Home-Invoice-Description,You have %li outstanding invoices to pay, Please visit the Invoices & Fees page.
+Home-Invoice-GoPay,Pay Online
+Home-Invoice-Reminder,Invoice Reminder
+Home-Invoice-Total,Total Outstanding:
+Home-Item-Application,Submit an Application
+Home-Item-Enquiry,Submit a New Enquiry
+Home-Item-Invoice,Invoices & Fees
+Home-Item-Menu,Menu
+Home-Item-OpenDay,Open Day
+Home-Item-Tour,Schedule a Tour
+Home-Item-UpCommingEvent,Upcoming Events
+Home-ReEnrollment-Description,Please give your re-enrolment decision for %@ before %@.
+Home-Title,Dashboard
+IDAT_Not_Avaialble_Describe,This checklist item is not available on mobile, please use a web browser to access it.
+IDAT_Not_Avaialble_on_Moblie,IDAT not available on the mobile app.
+Inbox-Filter-ShowUnread,Only Show Unread Notifications
+Inbox-Make-Star,Star
+Inbox-Make-Unread,Make as Unread
+Inbox-Messages,Messages
+Inbox-Nothing-News,Nothing new for you
+Inbox-Notification,Notifications
+Inbox-Notification-New,New for You
+Inbox-Notification-Previou,Previous Notifications
+Inbox-Notification-Read,Mark all as Read
+Inbox-Remove-Starred,Remove from Starred
+Inbox-Search-NoData,The keyword was not found
+Inbox-Search-Starred,Starred
+Inbox-Title,Inbox
+Inbox-Toast-NoMoreUnred,No unread notifications.
+Inbox-Toast-NoUnred,Check back here for new notifications.
+Invoices-Amount,Amount
+Invoices-DueDate,Due Date
+Invoices-Generate-Invoice,Generate Invoice
+Invoices-No-Payments,No Payments
+Invoices-NoPayments-Description,Your payments will appear here.
+Invoices-NoPayments-ReceivedInvoices-Description,You have not received any invoices from the school.
+Invoices-Open,Open Invoices
+Invoices-Pay-Now,Pay Now
+Invoices-PayOn,Paid On
+Invoices-Received,Received Invoices
+Invoices-Title,Invoices & Fees
+Invoices-Total-Outstanding,Total Outstanding
+Invoices-Type,Type
+Invoices-via,via
+Language-Arabic-Error,This language is not yet supported for the App version, and will temporarily display in English.
+Login-CodeSent,Code has been sent (%@ sec)
+Login-EnterPhoneNumber,Please enter the phone number
+Login-EnterVerificationCode,Please enter the verification code
+Login-Failed-Description,Please verify your email address and try again.
+Login-Failed-Description-Netwrok,Your internet connection is unstable. Please check your network connection and try again.
+Login-Failed-Title,Login
+Login-Or,Or
+Login-Region-China,China
+Login-Region-Demo,Demo
+Login-Region-Europe,United Kingdom, Qatar, Sweden
+Login-Region-Global,Global
+Login-SMS,Sign In with SMS
+Login-SMS-FailRemind,The current phone number is not associated with the school. Please verify your phone number on the website first.
+Login-SMS-Phone,Please enter your phone number to complete the SMS verification process. We will send you a one-time verification code to facilitate your sign-in.
+Login-SMS-Resend,Resend Code
+Login-SMS-Verification,Please enter the verification code you received via SMS to complete the SMS verification process.
+Login-Send-SMS,Send SMS Code
+Login-Toast-Error,Error
+Login-Toast-NoSchool,No school information found, please check your email.
+Login-Toast-Password,Password is invalid
+Message-AllNulls-Remind,Message cannot be empty, please try again
+Message-External-Link,External Link
+Message-Internal-Link,Internal Link
+Message-Send-Fail,Message failed to send.
+Message-Send-Retry,Tap to Retry
+Message-Write-Message,Write a message
+Message-link-Open-Remind,You are now opening the external link. Click OK to continue to:
+Month-Apr,Apr
+Month-Aug,Aug
+Month-Dec,Dec
+Month-Feb,Feb
+Month-Jan,Jan
+Month-Jul,Jul
+Month-Jun,Jun
+Month-Mar,Mar
+Month-May,May
+Month-Nov,Nov
+Month-Oct,Oct
+Month-Sep,Sep
+NSCalendarsFullAccessUsageDescription,Allow access to your calendar to add event reminders.
+NSCalendarsUsageDescription,Allow access to your calendar to add event reminders.
+NSCameraUsageDescription,Allow OpenApply to access Camera to take photos and set up the head portrait
+NSPhotoLibraryUsageDescription,Allow OpenApply to access Photo Library to set up the head portrait
+NetWork-Error-Alter,Unexpected server error. Please try again later.
+Network-Toast-NetError,No Internet Connection.
+Network-Toast-NetErrorDis,You are not connected to the internet. Make sure Wi-Fi is on, Airplane Mode is off, and try again.
+Network-Toast-Retry,Retry
+Nofitication-Filter-All,All
+Nofitication-Filter-Applicant,Message to Applicant
+Nofitication-Filter-Checklist,Checklist
+Nofitication-Filter-Enrolment,Enrolment
+Nofitication-Filter-Interview,Interview
+Nofitication-Filter-Invoice,Invoice
+Nofitication-Filter-ReEnrolment,Re-enrolment
+Nofitication-Filter-Registration,New Parent Registration
+Nofitication-Filter-Student,Student Status Change
+Nofitication-Filter-Tour,Tour Registration
+Notification-Details,Notification Details
+OA-OpenOASD-Enter-New-Mark,New
+OA-OpenOASD-Enter-Title,Schools Directory
+OnBoarding-Applicant,Applicant Checklist
+OnBoarding-Applicant-Description,Check your incomplete items on the Checklist, each student has its own items and the latest status of the submitted documentation.
+OnBoarding-Back,Back
+OnBoarding-Events,Upcoming Events
+OnBoarding-Events-Description,Don't forget to remember any important events, the schedule list makes the events clear at a glance.
+OnBoarding-Notifications,Notifications
+OnBoarding-Notifications-Description,Don’t want to miss any messages, notices or updates? We have organized all the up-to-date information in Notifications.
+OnBoarding-Pay,Pay Online
+OnBoarding-Pay-Description,Other than checking the payment history, you can also pay the fees through various methods such as cheque, credit card, etc.
+OnBoarding-Skip,Skip
+OnBoarding-Title,What's New
+Parent-Edit-Binary,Non-Binary
+Parent-Edit-ChangePassword,Change Password
+Parent-Edit-Detail,Contact Details
+Parent-Edit-Female,Female
+Parent-Edit-FirstName,First Name
+Parent-Edit-HomePhone,Home Telephone
+Parent-Edit-Info,Personal Information
+Parent-Edit-LastName,Last Name
+Parent-Edit-Male,Male
+Parent-Edit-Mobile,Mobile Phone
+Parent-Edit-Title,Profile Edit
+Parent-Email-Verify,Please verify your email address!
+Parent-Email-VerifyDis,An email has been sent to you with a link to confirm your email address.
+Parent-NewEmail-Verify,Verify New Email Address
+Parent-Profile-Address,Address
+Parent-Profile-BirthDay,Date of Birth
+Parent-Profile-City,City
+Parent-Profile-Country,Country/Region
+Parent-Profile-Email,Email
+Parent-Profile-Gender,Gender
+Parent-Profile-Nationality,Nationality
+Parent-Profile-Phone,Contact Number
+Parent-Profile-Postal,Postal Code
+Parent-Profile-Role,Parent
+Parent-Profile-State,State
+Parent-Profile-Title,Profile
+Password-Change-Title,Change Password
+Password-Confirm-Title,Confirm Password
+Password-Current-Title,Current Password
+Password-New-Title,New Password
+Password-Status-Blank,This field is required and cannot be left blank.
+Password-Status-MinLength,Password does not match (minimum 6 alphanumeric characters).
+Password-Status-NotMatch,Password does not match
+Phone-Already-Exist,This mobile account already exists.
+Phone-Change-Title,Change Mobile Phone
+Phone-Confirm-Code,Confirm your Code
+Phone-Country-Code,Country Code
+Phone-Not-Verify,Current Mobile Phone doesn't verify.
+Phone-Number,Your phone number
+Phone-ReSend-Code,Resend
+Phone-Send-Code,Send Code
+Phone-SendCode-Error,SMS code send failed
+Phone-SendCode-Success,SMS code has been sent
+Phone-Verify-Message,After verifying the mobile phone, you can log in through the mobile phone number later.
+Phone-Verify-Title,Verify Mobile Phone
+Profile-Avatar-Updated,The photo has been successfully uploaded.
+Profile-Select-Country,Select an option
+Profile-Toast-MobileError,has invalid phone format
+QR-Login-Cancel,Cancel Login
+QR-Login-Confirm,Confirm Login
+QR-Login-Confirm-Description,To ensure account security, please confirm that it's you performing this action.
+QR-Login-Confirm-Title,Confirm the OpenApply account login on your browser
+QR-Login-Rescan,Rescan
+QR-Login-Success,Login successful
+QR-Login-Title,Login
+Remind-No-Checklist,No Checklist
+Remind-No-Checklist-Tips,Congrats! You have completed your checklist items for now.
+Remind-No-Data,No Data
+Remind-No-Data-Tips,This is no data
+Remind-No-Message,No Messages
+Remind-No-Message-Tips,Send a message to the admissions team.
+Remind-No-Notifications,No Notifications
+Remind-No-Notifications-Tips,Notifications from the school will appear here.
+Remind-No-Uploaded-Files,No Uploaded Files
+Remind-No-Uploaded-Files-Tips,Your files will appear here.
+Reset-Password-Message,Please check your email to reset your password
+School-Contact-Email,Email
+School-Contact-Phone,Phone
+School-Contact-Role,Role
+School-Detail-Campus,Campus Locations
+School-Detail-Contact,Admissions Contacts
+School-Details,Details
+School-OverView,Overview
+School-Title,School Information
+Select-School,Select School
+Sign-Enter-Password,Enter Password
+Sign-Forgot-Password,Forgot Password
+Sign-In-Description,Streamline the admissions journey
+Sign-In-Next,Next
+Sign-In-Title,Sign In
+Sign-In-Welcome,Welcome to OpenApply
+Sign-Password-Reset,Password Reset
+Sign-Password-ResetDescription,Check your email address below, then click Reset Password and we will send you instructions on how to change your password.
+Sign-Remember-Me,Remember Me
+Sign-Reset-Password,Reset Password
+SignIn-with-Google,Sign In with Google
+SignIn-with-WeChat,Sign In with WeChat
+Student-Add-Applicant,Add New Applicant
+Student-Applicant-Progress,Applicant Progress
+Student-ReApply-Title,Reapply
+Student-Status-Admitted,Admitted
+Student-Status-Applied,Applied
+Student-Status-Declined,Declined
+Student-Status-Enrolled,Enrolled
+Student-Status-Graduated,Graduated
+Student-Status-Items,items
+Student-Status-Pending,Pending
+Student-Status-Wait-listed,Wait-listed
+Student-Status-Withdrawn,Withdrawn
+Toast-Operation-Failed,Operation failed
+Toast-Operation-Success,Operation successful
+Toast-Required-Address,Address is required.
+Toast-Required-Email,Email is required.
+Toast-Required-FirstName,First Name is required.
+Toast-Required-LastName,Last Name is required.
+Toast-Required-Phone,Mobile Phone is required.
+Toast-Submit-Cancel,Operation canceled
+Toast-Submit-Success,Document sent
+Toast-Token-invalid,You have signed in another device.
+Upload-Queue-Limit,Please wait for the upload to complete.
+WeChat-Alter-Confirmation-title,Confirmation
+WeChat-Alter-Unlink-Dec,Want to unlink your WeChat account?
+WeChat-Button-Cancel-Unlink,Cancel
+WeChat-Button-OK,OK
+WeChat-Link-Title,WeChat
+WeChat-Linked-With,Linked with
+WeChat-Unlink-Confirm-Button,Unlink
+WeChat-Unlink-Done,Unlink
+WeChat-Unlink-Failure,Unlink failed. Please try again.
+WeChat-Unlink-Success,Your account has successfully unlinked with WeChat.
+WeChat-Unlink-Title,WeChat
+WeChat-authorization-failed,WeChat login authorization failed
+WeChat-login-no-schools,We couldn't find the school associated with your WeChat account. Please log in using your email or phone number.
+WeChat-token-failed,WeChat user token retrieval failed
+WebLink-URL-Invalid,Sorry, this link is empty or invalid.
+Wechat-Button-Cancel,Maybe Later
+Wechat-Button-Link,Link Now
+Wechat-Reminder-Description,Link your WeChat account to easily login in the future.
+Wechat-Reminder-Title,Easy Login
+Wed-Toast-LoadingFail,loading failed
+Wed-Toast-LoadingFileCanOpen,File format not supported, open with Safari?
+refresh_idle,Pull down to refresh
+refresh_pulling,Release to refresh
+refresh_refreshing,Loading...
+refresh_willRefresh,Release to refresh
+tabbar_DashBoard,Home
+tabbar_Messages,Inbox
+tabbar_Settings,Me
